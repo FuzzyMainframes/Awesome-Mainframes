@@ -1,7 +1,7 @@
 # Awesome Mainframes
 Awesome list of mainframe related resources &amp; projects and is currently in a very early stage.
 
-If you would like to contribute to this list, please either submit a pull request.  If you are not familiar with git pull request and want to just submit a minor correction or a new link, please open an "issue" in github.  This will ensure that any submissions are not overlooked.
+If you would like to contribute to this list, please submit a pull request.  If you are not familiar with git pull request sand want to just submit a minor correction or a new link, just open an "issue" in github.  This will ensure that any submissions are not overlooked.
 
 ## Getting Started
 
