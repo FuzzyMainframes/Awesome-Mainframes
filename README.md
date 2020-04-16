@@ -28,10 +28,12 @@ Awesome list of mainframe related resources &amp; projects and is currently in a
 ### MUSIC/SP
 * [MUSIC/SP](http://www.canpub.com/teammpg/de/mcgweb/msi/musicsp.htm)- MUSIC/SP is short for Multi-User System for Interactive Computing / System Product. It is an operating system, similar in some ways to Unix. It is a true multi-tasking, multi-user system. 
 ### Linux
+* [Running Linux/390 on Hercules](http://linuxvm.org/penguinvm/hercules/)
+* [Gentoo Linux/390 on Hercules](https://wiki.gentoo.org/wiki/S390/Hercules) - This guide is about installing Gentoo in a emulated S390 machine using Hercules.
 
 ## CICS
-* [KICKS for TSO](http://kicksfortso.com) A free replacement for CICS
-* [Mainframe CICS World](https://sites.google.com/site/mainframecicsworld/) - Lots of information in CICS
+* [KICKS for TSO](http://kicksfortso.com) - A free replacement for CICS which runs in the TSO or CMS environments
+* [Mainframe CICS World](https://sites.google.com/site/mainframecicsworld/) - Lots of information about CICS
 
 ## Programming Languages
 ### BASIC
