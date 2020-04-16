@@ -24,6 +24,8 @@ Awesome list of mainframe related resources &amp; projects and is currently in a
 * [tn3270 for Macintosh](https://www.brown.edu/cis/tn3270/) - Free TN3270 emulator for macOS X versions prior to 10.15 (Catalina) as it requires 32-bit application support.
 * [PW3270](https://softwarepublico.gov.br/social/pw3270) ([github](https://github.com/PerryWerneck/pw3270)) - Opensource (GPL2) TN3270 emulator
 * [ZOC: SSH Client and Terminal Emulator for Windows and macOS](https://www.emtec.com/zoc/) - ZOC is a commercial, cross-platform terminal emulator with TN3270 emulation support.
+### TN3270/3270 Tech Info
+* [3270 Data Stream Programming](https://www.tommysprinkle.com/mvs/P3270/start.htm) - Tommy Sprinkle's refrence on 3270 Data Streams.  
 ## Operating Systems
 ### MVS
 * [Tur(n)key MVS 3.8j TK4-](http://wotho.ethz.ch/tk4-/) - The easiest way to get started with MVS.  TK4- is a pre-built distribution of MVS with many enhancements, bundled with programming languages and additional tools.
@@ -38,11 +40,24 @@ Awesome list of mainframe related resources &amp; projects and is currently in a
 * [Six Pack, Version 1.3 Beta](http://www.smrcc.org.uk/members/g4ugm/SixPack-1.3.Beta.htm)
 * [Six Pack Extended (6PExt)](https://geronimo370.nl/vm6pext/vm-370/)-René Farland's unofficial update to the original Six Pack Version 1.2 Distribution. 6PExt includes the recent RSCS nucleus of Peter Coghlan for NJE support.
 ### MUSIC/SP
+MUSIC/SP (Multi-User System for Interactive Computing/System Product; originally "McGill University System for Interactive Computing") was developed at McGill University in the 1970s from an early IBM time-sharing system called RAX (Remote Access Computing System). The system ran on IBM S/360, S/370, and 4300-series mainframe hardware, and offered novel features (for the time) such as file access control and data compression. It was designed to allow academics and students to create and run their programs interactively on terminals, in an era when most mainframe computing was still being done from punched cards. Over the years, development continued and the system evolved to embrace email, the Internet and eventually the World Wide Web. At its peak in the late 1980s, there were over 250 universities, colleges and high school districts that used the system in North and South America, Europe and Asia.
 * [MUSIC/SP](http://www.canpub.com/teammpg/de/mcgweb/msi/musicsp.htm)- MUSIC/SP is short for Multi-User System for Interactive Computing / System Product. It is an operating system, similar in some ways to Unix. It is a true multi-tasking, multi-user system. 
+### Michigan Terminal System
+The Michigan Terminal System (MTS) is one of the first time-sharing computer operating systems.[1] Developed in 1967 at the University of Michigan for use on IBM S/360-67, S/370 and compatible mainframe computers, it was developed and used by a consortium of eight universities in the United States, Canada, and the United Kingdom over a period of 33 years (1967 to 1999)
+* [Michigan Terminal System Archive](http://archive.michigan-terminal-system.org)
+
 ### Linux
 * [Linux/390 at Princeton University](http://linuxvm.org/penguinvm/)
 * [Gentoo Linux/390 on Hercules](https://wiki.gentoo.org/wiki/S390/Hercules) - This guide is about installing Gentoo in a emulated S390 machine using Hercules.
 * [Installing Ubuntu 18.04 Server for S390 on Hercules](https://astr0baby.wordpress.com/2018/06/03/installing-ubuntu-18-04-server-s390x-in-hercules-mainframe-simulator/)
+### DOS/360
+### OS/360
+### MVT
+### MFT
+### DOS/VS
+
+
+
 ## CICS
 * [KICKS for TSO](http://kicksfortso.com) - A free replacement for CICS which runs in the TSO or CMS environments
 * [Mainframe CICS World](https://sites.google.com/site/mainframecicsworld/) - Lots of information about CICS
