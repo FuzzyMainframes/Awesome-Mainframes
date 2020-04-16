@@ -1,4 +1,4 @@
-# Awesome-Mainframes-Draft
+# Awesome-Mainframes
 Awesome list of mainframe related resources &amp; projects
 
 ## Getting Started
