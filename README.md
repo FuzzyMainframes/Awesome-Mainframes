@@ -62,7 +62,8 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 
 ## CICS
 * [KICKS for TSO](http://kicksfortso.com) - A free replacement for CICS which runs in the TSO or CMS environments
-* [Mainframe CICS World](https://sites.google.com/site/mainframecicsworld/) - Lots of information about CICS
+  * [KICKS ( CICS ) for IBM MVS 3.8 - Transaction processing - M24](https://www.youtube.com/watch?v=u_ZSH9OagTM) - Moshx's video on installing KICKS for TSO
+* [Mainframe CICS World](https://sites.google.com/site/mainframecicsworld/) (YOUTUBE) - Lots of information about CICS
 
 ## Programming Languages
 ## Assembler
@@ -94,8 +95,8 @@ The list below are YouTube Channels that feature mainframe related videos.
 * [OpenMainframe Project's COBOL Programming](https://github.com/openmainframeproject/cobol-programming-course) - Opensource COBOL Programming course created during the COVID-19 pandemic.
 
 ## Free or Opensource Software to run on your Mainframe
-* [CBT Tape](http://www.cbttape.org)- The CBT tape is a collection of freeware almost all open-source distribution for the IBM mainframe MVS and OS/390 operating system environment.
-* [Pycroft Six](http://www.prycroft6.com.au/software.html) Pycroft Six's free MVS User Mods and Software, including REVIEW, a full-screen TSO browser and editor.
+* [CBT Tape](http://www.cbttape.org) - The CBT tape is a collection of freeware almost all open-source distribution for the IBM mainframe MVS and OS/390 operating system environment.
+* [Pycroft Six](http://www.prycroft6.com.au/software.html) - Pycroft Six's free MVS User Mods and Software, including REVIEW, a full-screen TSO browser and editor.
 
 ## Others / Yet to be categorized
 * [Collection of IBM Mainframe Progamming Quick References](http://ibmmainframes.com/references/)
