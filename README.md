@@ -81,6 +81,7 @@ The list below are YouTube Channels that feature mainframe related videos.
 ## Mainframe Blogs
 * [Geronimo/370](https://geronimo370.nl) - Gerrard Wassink's Blog
 * [An idiot at a mainframe](https://idiotmainframe.blogspot.com) - Johan's Blog.  Lots of information on using KICKS.
+* [Astr0baby's not so random thoughts](https://astr0baby.wordpress.com) - Astr0baby's blog -- large variety of posts including many mainframe related.
 ## Courses
 * [The Complete Mainframe Professional Course : TSO/ISPF](https://www.udemy.com/course/the-complete-mainframe-professional-course-tso-ispf/) (UDEMY) by Abhishek Rathi. *"The first step in learning about Mainframes. 4 Courses in 1. Covers TSO, ISPF, JCL, VSAM, COBOL and CICS."*
 * [Mainframe : The Complete TSO/ISPF from Beginner to Expert](https://www.udemy.com/course/master-tso-ispf-on-mainframe-from-scratch-to-advanced-level/) (UDEMY) by Sandeep Kumar. *"Best TSO/ISPF Course. TSO and ISPF commands are explained in detail. Simplified COBOL covered as bonus along with JCL."*
