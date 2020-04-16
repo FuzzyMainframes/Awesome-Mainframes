@@ -19,6 +19,8 @@ Awesome list of mainframe related resources &amp; projects and is currently in a
 ### MVS
 * [Tur(n)key MVS 3.8j TK4-](http://wotho.ethz.ch/tk4-/) - The easiest way to get started with MVS.  TK4- is a pre-built distribution of MVS with many enhancements, bundled with programming languages and additional tools.
 * [Tur(n)key MVS 3.8j TK3](http://www.bsp-gmbh.com/turnkey/)- Volker Bandke's Tur(n)key MVS 3.8 TK3 distribution. 
+#### MVS Information
+* [MIB Mainframe Useful Commands - Basic V1.10](https://www.yumpu.com/it/document/read/7780434/mib-mainframe-useful-commands-basic-v110) - Cheatsheet of useful zOS / MVS commands from ibmmainframe.cn 
 ### VM/370
 * [VM/370 Downloads - Multiple Versions](http://www.smrcc.org.uk/members/g4ugm/VM370.htm) - This site includes Robert O'Hara's Six Pack Version 1.2, Paul Gorinskey's 5-Pack System, Andy Norrie's 4-Pack system, and Bob Abele's Original 3-Pack System.
 * [Six Pack, Version 1.3 Beta](http://www.smrcc.org.uk/members/g4ugm/SixPack-1.3.Beta.htm)
@@ -26,6 +28,10 @@ Awesome list of mainframe related resources &amp; projects and is currently in a
 ### MUSIC/SP
 * [MUSIC/SP](http://www.canpub.com/teammpg/de/mcgweb/msi/musicsp.htm)- MUSIC/SP is short for Multi-User System for Interactive Computing / System Product. It is an operating system, similar in some ways to Unix. It is a true multi-tasking, multi-user system. 
 ### Linux
+
+## CICS
+* [KICKS for TSO](http://kicksfortso.com) A free replacement for CICS
+* [Mainframe CICS World](https://sites.google.com/site/mainframecicsworld/) - Lots of information in CICS
 
 ## Programming Languages
 ### BASIC
