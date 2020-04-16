@@ -48,6 +48,8 @@ Awesome list of mainframe related resources &amp; projects and is currently in a
 * [Mainframe CICS World](https://sites.google.com/site/mainframecicsworld/) - Lots of information about CICS
 
 ## Programming Languages
+## Assembler
+* [IBM Mainframe Assembler - Hints and Tips](http://www.les-smith.com/software/assembler/assembler-hints-and-tips.htm)
 ### BASIC
 ### C
 ### CLIST
