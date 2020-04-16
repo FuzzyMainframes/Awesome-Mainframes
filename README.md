@@ -72,6 +72,7 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 ### JCL
 ### REXX
 * [BREXX/370](https://github.com/mgrossmann/brexx370) - MVS only fork of Vasilis Vlachoudis' awesome rexx implementation.  This seems to be the only version of REXX available that will run on MVS 3.8.
+* [Jim Barry's REXX Tutorial](http://www.kyla.co.uk/other/rexx1.htm#introduction)
 
 ## Mainframe Related YouTube Channels
 The list below are YouTube Channels that feature mainframe related videos.
