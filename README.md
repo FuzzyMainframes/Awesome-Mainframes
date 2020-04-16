@@ -8,7 +8,7 @@ Awesome list of mainframe related resources &amp; projects
 ## Emulators
 * [Hercules Spinhawk](https://github.com/rbowler/spinhawk) - Hercules 3.x - spinhawk is the repository for the production-quality version (release 3.xx) of the Hercules mainframe virtualization platform
 * [Hercules Hyperion](https://github.com/hercules-390/hyperion)  The Hyperion version of Hercules is the official development version of the Hercules emulator and contains the latest bleeding edge changes made by Hercules developers to address various bugs that may exist in the production version.
-* SDL Hercules Hyperion
+* [SDL Hercules Hyperion](http://www.softdevlabs.com/hyperion.html) - [github repo](https://github.com/SDL-Hercules-390/hyperion) SoftDevLabs (SDL) version of Hercules 4.x
 
 ## TN3270 Terminal Emulators
 * [Vista TN3270](https://www.tombrennansoftware.com/index.html) - Tom Brennan's feature packed TN3270 emulator for Microsoft Windows and runs on Linux and Mac with WINE. *"Vista tn3270 is a Windows program designed to emulate IBM 3270 terminals connected to a host via IP link. Currently it is available for a free 30 day trial, and costs only $30.  If you are looking for an emulator created with mainframe programmers in mind, then give this one a try.  You might find some unique features unavailable even on the highest priced commercial emulators."*
@@ -18,7 +18,7 @@ Awesome list of mainframe related resources &amp; projects
 ## Operating Systems
 ### MVS
 * [Tur(n)key MVS 3.8j TK4-](http://wotho.ethz.ch/tk4-/) - The easiest way to get started with MVS.  TK4- is a pre-built distribution of MVS with many enhancements, bundled with programming languages and additional tools.
-* Tur(n)key MVS 3.8j TK3](http://www.bsp-gmbh.com/turnkey/)- Volker Bandke's Tur(n)key MVS 3.8 TK3 distribution. 
+* [Tur(n)key MVS 3.8j TK3](http://www.bsp-gmbh.com/turnkey/)- Volker Bandke's Tur(n)key MVS 3.8 TK3 distribution. 
 ### VM/370
 * [VM/370 Downloads - Multiple Versions](http://www.smrcc.org.uk/members/g4ugm/VM370.htm) - This site includes Robert O'Hara's Six Pack Version 1.2, Paul Gorinskey's 5-Pack System, Andy Norrie's 4-Pack system, and Bob Abele's Original 3-Pack System.
 * [Six Pack, Version 1.3 Beta](http://www.smrcc.org.uk/members/g4ugm/SixPack-1.3.Beta.htm)
