@@ -33,7 +33,7 @@ Awesome list of mainframe related resources &amp; projects
 ### COBOL
 ### JCL
 ### REXX
-* [BREXX/370](https://github.com/mgrossmann/brexx370) - An MVS only fork of Vasilis Vlachoudis' awesome rexx implementation.  This seems to be the only version of REXX available that will run on MVS 3.8.
+* [BREXX/370](https://github.com/mgrossmann/brexx370) - MVS only fork of Vasilis Vlachoudis' awesome rexx implementation.  This seems to be the only version of REXX available that will run on MVS 3.8.
 
 ## Mainframe Related YouTube Channels
 The list below are YouTube Channels that feature mainframe related videos.
@@ -41,3 +41,7 @@ The list below are YouTube Channels that feature mainframe related videos.
 * [Mainframes & More with Matthew](https://www.youtube.com/channel/UCFvM_17zCxRhXHIhOyg-N3Q) Videos on IBM mainframes and mini-computers.  He has a series of videos detailing how to sysgen (install) MVS 3.8 from scratch.
 
 ## Mainframe Blogs
+## Courses
+* [The Complete Mainframe Professional Course : TSO/ISPF](https://www.udemy.com/course/the-complete-mainframe-professional-course-tso-ispf/) (UDEMY) The Complete Mainframe Professional Course : TSO/ISPF by Abhishek Rathi. *"The first step in learning about Mainframes. 4 Courses in 1. Covers TSO, ISPF, JCL, VSAM, COBOL and CICS."*
+* [Mainframe : The Complete TSO/ISPF from Beginner to Expert](https://www.udemy.com/course/master-tso-ispf-on-mainframe-from-scratch-to-advanced-level/) (UDEMY) - Mainframe : The Complete TSO/ISPF from Beginner to Expert by Sandeep Kumar. *"Best TSO/ISPF Course. TSO and ISPF commands are explained in detail. Simplified COBOL covered as bonus along with JCL."*
+* [Mainframe: The Complete JCL Course from Beginner to Expert](https://www.udemy.com/course/the-complete-jcl-course-from-beginner-to-expert-on-mainframe/) - Mainframe: The Complete JCL Course from Beginner to Expert by Sandeep Kumar. *"Become an expert on JCL. Jcls are used for COBOL Programs. Procedures, Utilities, GDG and basics of TSO/ISPF are covered"*
