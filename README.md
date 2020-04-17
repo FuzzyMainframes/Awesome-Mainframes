@@ -28,6 +28,7 @@ If you would like to contribute to this list, please submit a pull request.  If 
 * [ZOC: SSH Client and Terminal Emulator for Windows and macOS](https://www.emtec.com/zoc/) - ZOC is a commercial, cross-platform terminal emulator with TN3270 emulation support.
 ### TN3270/3270 Tech Info
 * [3270 Data Stream Programming](https://www.tommysprinkle.com/mvs/P3270/start.htm) - Tommy Sprinkle's refrence on 3270 Data Streams.  
+
 ## Operating Systems
 ### MVS
 * [Tur(n)key MVS 3.8j TK4-](http://wotho.ethz.ch/tk4-/) - The easiest way to get started with MVS.  TK4- is a pre-built distribution of MVS with many enhancements, bundled with programming languages and additional tools.
@@ -37,13 +38,18 @@ If you would like to contribute to this list, please submit a pull request.  If 
 * [TSO Tutorial](http://www.jaymoseley.com/hercules/tso_tutor/tsotutor.htm) - Jay Moseley's TSO Tutorial, based on MVS 3.8.
 * [The MVS Tur(n)key New Users Cookbook](http://www.bsp-gmbh.com/turnkey/cookbook/index.html) - A great resource for new users by Volker Bandke, creator of TK3.
 * [MVS FAQ](http://www.jaymoseley.com/hercules/faq/mvsfaq.htm) - MVS related Frequently Asked Questions answered by Jay Mosley.
+#### MVS Videos
+
 ### VM/370
 * [VM/370 Downloads - Multiple Versions](http://www.smrcc.org.uk/members/g4ugm/VM370.htm) - This site includes Robert O'Hara's Six Pack Version 1.2, Paul Gorinskey's 5-Pack System, Andy Norrie's 4-Pack system, and Bob Abele's Original 3-Pack System.
 * [Six Pack, Version 1.3 Beta](http://www.smrcc.org.uk/members/g4ugm/SixPack-1.3.Beta.htm)
 * [Six Pack Extended (6PExt)](https://geronimo370.nl/vm6pext/vm-370/)-René Farland's unofficial update to the original Six Pack Version 1.2 Distribution. 6PExt includes the recent RSCS nucleus of Peter Coghlan for NJE support.
+#### VM/370 Videos
+
 ### MUSIC/SP
-MUSIC/SP (Multi-User System for Interactive Computing/System Product; originally "McGill University System for Interactive Computing") was developed at McGill University in the 1970s from an early IBM time-sharing system called RAX (Remote Access Computing System). The system ran on IBM S/360, S/370, and 4300-series mainframe hardware, and offered novel features (for the time) such as file access control and data compression. It was designed to allow academics and students to create and run their programs interactively on terminals, in an era when most mainframe computing was still being done from punched cards. Over the years, development continued and the system evolved to embrace email, the Internet and eventually the World Wide Web. At its peak in the late 1980s, there were over 250 universities, colleges and high school districts that used the system in North and South America, Europe and Asia.
+MUSIC/SP (Multi-User System for Interactive Computing/System Product; originally "McGill University System for Interactive Computing") was developed at McGill University in the 1970s from an early IBM time-sharing system called RAX (Remote Access Computing System). 
 * [MUSIC/SP](http://www.canpub.com/teammpg/de/mcgweb/msi/musicsp.htm) - MUSIC/SP is short for Multi-User System for Interactive Computing / System Product. It is an operating system, similar in some ways to Unix. It is a true multi-tasking, multi-user system. 
+
 ### Michigan Terminal System
 The Michigan Terminal System (MTS) is one of the first time-sharing computer operating systems.[1] Developed in 1967 at the University of Michigan for use on IBM S/360-67, S/370 and compatible mainframe computers, it was developed and used by a consortium of eight universities in the United States, Canada, and the United Kingdom over a period of 33 years (1967 to 1999)
 * [Michigan Terminal System Archive](http://archive.michigan-terminal-system.org)
@@ -72,9 +78,19 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 ### C
 ### CLIST
 ### COBOL
+#### COBOL Tutorials / Courses
+* [OpenMainframe Project's COBOL Programming](https://github.com/openmainframeproject/cobol-programming-course) - Opensource COBOL Programming course created during the COVID-19 pandemic.
+#### COBOL Videos
+* [Cobol and the New Jersey Health Dept Debacle - M169](https://www.youtube.com/watch?v=3KEQT7IPRgg) - A video from Moshix discussing the current situation with COBOL and the NJ Health Dept. and a brief overview of COBOL
+* [Hello world program in mainframe Cobol - M124](https://www.youtube.com/watch?v=exAp0Ddbi-c) - Moshix writes a Hello Word program in mainframe COBOL
+* [IBM MVS - Editing, compiling and executing a Cobol program - M2](https://www.youtube.com/watch?v=YA3FQOzr0ag)
+* [IBM OS/VS Cobol compiler vs modern IBM Enterprise Cobol compiler - M47](https://www.youtube.com/watch?v=sP2umvFZ3Xk)
+* [Systems programming with IBM Cobol - M72](https://www.youtube.com/watch?v=030TuJZ9wIo)
+
 ### JCL
 ### REXX
 * [BREXX/370](https://github.com/mgrossmann/brexx370) - MVS only fork of Vasilis Vlachoudis' awesome rexx implementation.  This seems to be the only version of REXX available that will run on MVS 3.8.
+#### REXX Tutorials / Courses
 * [Jim Barry's REXX Tutorial](http://www.kyla.co.uk/other/rexx1.htm#introduction)
 
 ## Mainframe Related YouTube Channels
