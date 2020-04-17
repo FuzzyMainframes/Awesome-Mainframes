@@ -3,6 +3,15 @@ Awesome list of mainframe related resources &amp; projects and is currently in a
 
 If you would like to contribute to this list, please submit a pull request.  If you are not familiar with git pull request sand want to just submit a minor correction or a new link, just open an "issue" in github.  This will ensure that any submissions are not overlooked.
 
+## Contents
+* [Getting Started](#getting-started)
+* [General](#general)
+* [Emulators](#emulators)
+* [Hercules GUI Front Ends](#hercules-gui-front-ends)
+* [TN3270 Terminal Emulators](#tn3270-terminal-emulators)
+  * [TN3270/3270 Tech Info](#tn32703270-tech-info)
+* [Operating Systems]
+
 ## Getting Started
 
 ## General
@@ -40,6 +49,7 @@ If you would like to contribute to this list, please submit a pull request.  If 
 * [MVS FAQ](http://www.jaymoseley.com/hercules/faq/mvsfaq.htm) - MVS related Frequently Asked Questions answered by Jay Mosley.
 #### MVS Videos
 
+
 ### VM/370
 * [VM/370 Downloads - Multiple Versions](http://www.smrcc.org.uk/members/g4ugm/VM370.htm) - This site includes Robert O'Hara's Six Pack Version 1.2, Paul Gorinskey's 5-Pack System, Andy Norrie's 4-Pack system, and Bob Abele's Original 3-Pack System.
 * [Six Pack, Version 1.3 Beta](http://www.smrcc.org.uk/members/g4ugm/SixPack-1.3.Beta.htm)
@@ -57,7 +67,7 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 ### Linux
 * [Linux/390 at Princeton University](http://linuxvm.org/penguinvm/)
 * [Gentoo Linux/390 on Hercules](https://wiki.gentoo.org/wiki/S390/Hercules) - This guide is about installing Gentoo in a emulated S390 machine using Hercules.
-* [Installing Ubuntu 18.04 Server for S390 on Hercules](https://astr0baby.wordpress.com/2018/06/03/installing-ubuntu-18-04-server-s390x-in-hercules-mainframe-simulator/)
+* [How to install Ubuntu 18.04 on the Hercules mainframe - M87](https://www.youtube.com/watch?v=QTBNt32ERWE)
 ### DOS/360
 ### OS/360
 ### MVT
@@ -101,7 +111,6 @@ The list below are YouTube Channels that feature mainframe related videos.
 ## Mainframe Blogs
 * [Geronimo/370](https://geronimo370.nl) - Gerrard Wassink's Blog
 * [An idiot at a mainframe](https://idiotmainframe.blogspot.com) - Johan's Blog.  Lots of information on using KICKS.
-* [Astr0baby's not so random thoughts](https://astr0baby.wordpress.com) - Astr0baby's blog -- large variety of posts including many mainframe related.
 * [mainframe.dev](https://blog.mainframe.dev) - Christian Svensson's blog
 ## Courses
 * [The Complete Mainframe Professional Course : TSO/ISPF](https://www.udemy.com/course/the-complete-mainframe-professional-course-tso-ispf/) (UDEMY) by Abhishek Rathi. *"The first step in learning about Mainframes. 4 Courses in 1. Covers TSO, ISPF, JCL, VSAM, COBOL and CICS."*
