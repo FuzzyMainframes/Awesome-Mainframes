@@ -125,3 +125,4 @@ The list below are YouTube Channels that feature mainframe related videos.
 
 ## Others / Yet to be categorized
 * [Collection of IBM Mainframe Progamming Quick References](http://ibmmainframes.com/references/)
+* [Scott C's List of Hercules Related Links](https://curlie.org/Computers/Emulators/IBM_Mainframe/Hercules/) - Another list of links, similar to the Awesome Mainfames list.
