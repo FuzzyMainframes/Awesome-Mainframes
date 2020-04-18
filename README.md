@@ -117,7 +117,7 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 * [KICKS for TSO](http://kicksfortso.com) - A free replacement for CICS which runs in the TSO or CMS environments
   * [KICKS ( CICS ) for IBM MVS 3.8 - Transaction processing - M24](https://www.youtube.com/watch?v=u_ZSH9OagTM) - [Moshix](https://github.com/moshix)'s video on installing KICKS for TSO
   * [An idiot at a mainframe](https://idiotmainframe.blogspot.com) - Johan's Blog.  Although listed in the blogs category, he posts lots of information on using KICKS, so it warrants inclusion here as well.
-* [Mainframe CICS World](https://sites.google.com/site/mainframecicsworld/) (YOUTUBE) - Lots of information about CICS
+* [Mainframe CICS World](https://sites.google.com/site/mainframecicsworld/) - Lots of information about CICS
 
 ## Programming Languages
 ### Assembler
