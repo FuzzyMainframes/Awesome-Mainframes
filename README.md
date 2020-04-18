@@ -1,16 +1,47 @@
-# Awesome Mainframes
+# Awesome Mainframes <!-- omit in toc -->
 Awesome list of mainframe related resources &amp; projects and is currently in a very early stage.
 
 If you would like to contribute to this list, please submit a pull request.  If you are not familiar with git pull request sand want to just submit a minor correction or a new link, just open an "issue" in github.  This will ensure that any submissions are not overlooked.
 
-## Contents
-* [Getting Started](#getting-started)
-* [General](#general)
-* [Emulators](#emulators)
-* [Hercules GUI Front Ends](#hercules-gui-front-ends)
-* [TN3270 Terminal Emulators](#tn3270-terminal-emulators)
-  * [TN3270/3270 Tech Info](#tn32703270-tech-info)
-* [Operating Systems]
+## Contents <!-- omit in toc -->
+- [Getting Started](#getting-started)
+- [General](#general)
+- [Emulators](#emulators)
+- [Hercules GUI Front Ends](#hercules-gui-front-ends)
+- [TN3270 Terminal Emulators](#tn3270-terminal-emulators)
+  - [TN3270/3270 Tech Info](#tn32703270-tech-info)
+- [Operating Systems](#operating-systems)
+  - [MVS](#mvs)
+    - [MVS Information](#mvs-information)
+    - [MVS Videos](#mvs-videos)
+  - [VM/370](#vm370)
+    - [VM/370 Videos](#vm370-videos)
+  - [MUSIC/SP](#musicsp)
+  - [Michigan Terminal System](#michigan-terminal-system)
+  - [Linux](#linux)
+  - [DOS/360](#dos360)
+  - [OS/360](#os360)
+  - [MVT](#mvt)
+  - [MFT](#mft)
+  - [DOS/VS](#dosvs)
+- [CICS](#cics)
+- [Programming Languages](#programming-languages)
+- [Assembler](#assembler)
+    - [Assembler Tutorials / Courses](#assembler-tutorials--courses)
+  - [BASIC](#basic)
+  - [C](#c)
+  - [CLIST](#clist)
+  - [COBOL](#cobol)
+    - [COBOL Tutorials / Courses](#cobol-tutorials--courses)
+    - [COBOL Videos](#cobol-videos)
+  - [JCL](#jcl)
+  - [REXX](#rexx)
+    - [REXX Tutorials / Courses](#rexx-tutorials--courses)
+- [Mainframe Related YouTube Channels](#mainframe-related-youtube-channels)
+- [Mainframe Blogs](#mainframe-blogs)
+- [Courses](#courses)
+- [Free or Opensource Software to run on your Mainframe](#free-or-opensource-software-to-run-on-your-mainframe)
+- [Others / Yet to be categorized](#others--yet-to-be-categorized)
 
 ## Getting Started
 
@@ -41,14 +72,14 @@ If you would like to contribute to this list, please submit a pull request.  If 
 ## Operating Systems
 ### MVS
 * [Tur(n)key MVS 3.8j TK4-](http://wotho.ethz.ch/tk4-/) - The easiest way to get started with MVS.  TK4- is a pre-built distribution of MVS with many enhancements, bundled with programming languages and additional tools.
-* [Tur(n)key MVS 3.8j TK3](http://www.bsp-gmbh.com/turnkey/)- Volker Bandke's Tur(n)key MVS 3.8 TK3 distribution. 
+* [Tur(n)key MVS 3.8j TK3](http://www.bsp-gmbh.com/turnkey/) - Volker Bandke's Tur(n)key MVS 3.8 TK3 distribution. 
 #### MVS Information
 * [MIB Mainframe Useful Commands - Basic V1.10](https://www.yumpu.com/it/document/read/7780434/mib-mainframe-useful-commands-basic-v110) - Cheatsheet of useful zOS / MVS commands from ibmmainframe.cn 
 * [TSO Tutorial](http://www.jaymoseley.com/hercules/tso_tutor/tsotutor.htm) - Jay Moseley's TSO Tutorial, based on MVS 3.8.
 * [The MVS Tur(n)key New Users Cookbook](http://www.bsp-gmbh.com/turnkey/cookbook/index.html) - A great resource for new users by Volker Bandke, creator of TK3.
 * [MVS FAQ](http://www.jaymoseley.com/hercules/faq/mvsfaq.htm) - MVS related Frequently Asked Questions answered by Jay Mosley.
 #### MVS Videos
-
+* [Adding a disk device to your MVS or z/OS system - M14](https://www.youtube.com/watch?v=UXCaXF0n0F4) video by Moshix
 
 ### VM/370
 * [VM/370 Downloads - Multiple Versions](http://www.smrcc.org.uk/members/g4ugm/VM370.htm) - This site includes Robert O'Hara's Six Pack Version 1.2, Paul Gorinskey's 5-Pack System, Andy Norrie's 4-Pack system, and Bob Abele's Original 3-Pack System.
@@ -75,7 +106,6 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 ### DOS/VS
 
 
-
 ## CICS
 * [KICKS for TSO](http://kicksfortso.com) - A free replacement for CICS which runs in the TSO or CMS environments
   * [KICKS ( CICS ) for IBM MVS 3.8 - Transaction processing - M24](https://www.youtube.com/watch?v=u_ZSH9OagTM) - Moshx's video on installing KICKS for TSO
@@ -84,6 +114,8 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 ## Programming Languages
 ## Assembler
 * [IBM Mainframe Assembler - Hints and Tips](http://www.les-smith.com/software/assembler/assembler-hints-and-tips.htm)
+#### Assembler Tutorials / Courses
+[Programming Assembler Language on the IBM Mainframes: An Introduction](http://www.edwardbosworth.com/My3121Textbook/MyText3121_AFrontMatter_V03.htm) by by Edward L. Bosworth, Ph.D
 ### BASIC
 ### C
 ### CLIST
@@ -102,7 +134,7 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 * [BREXX/370](https://github.com/mgrossmann/brexx370) - MVS only fork of Vasilis Vlachoudis' awesome rexx implementation.  This seems to be the only version of REXX available that will run on MVS 3.8.
 #### REXX Tutorials / Courses
 * [Jim Barry's REXX Tutorial](http://www.kyla.co.uk/other/rexx1.htm#introduction)
-
+* [Install and run the newly released Rexx interpreter for MVS 3.8j - M113](https://www.youtube.com/watch?v=3Sg0mYdeIsE) video by Moshix
 ## Mainframe Related YouTube Channels
 The list below are YouTube Channels that feature mainframe related videos.
 * [Moshix Mainframe Channel](https://www.youtube.com/user/moshe5760) - Moshix is a mainframe veteran with a large following of nearly 4,000 subscribers.  He frequently posts new videos covering everything mainframe-related.
