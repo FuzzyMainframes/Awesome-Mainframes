@@ -43,7 +43,7 @@ If you would like to contribute to this list, please submit a pull request.  If 
   - [Courses](#courses)
   - [Free or Opensource Software to run on your Mainframe](#free-or-opensource-software-to-run-on-your-mainframe)
   - [Others / Yet to be categorized](#others--yet-to-be-categorized)
-  - [https://github.com/roblthegreat/MainframeNotebook.wiki.git](#httpsgithubcomroblthegreatmainframenotebookwikigit)
+  - [* Scott C's List of Hercules Related Links - Another list of links, similar to the Awesome Mainfames list.](#ul-liscott-cs-list-of-hercules-related-links---another-list-of-links-similar-to-the-awesome-mainfames-listli-ul)
 - [Other IBM Mainframes (IBM 1401, 1620, 7090/7094, System 3)](#other-ibm-mainframes-ibm-1401-1620-70907094-system-3)
   - [Emulators](#emulators-1)
   - [Software](#software)
@@ -165,7 +165,6 @@ The list below are YouTube Channels that feature mainframe related videos.
 ## Others / Yet to be categorized
 * [Collection of IBM Mainframe Progamming Quick References](http://ibmmainframes.com/references/)
 * [Scott C's List of Hercules Related Links](https://curlie.org/Computers/Emulators/IBM_Mainframe/Hercules/) - Another list of links, similar to the Awesome Mainfames list.
-https://github.com/roblthegreat/MainframeNotebook.wiki.git
 ---
 # Other IBM Mainframes (IBM 1401, 1620, 7090/7094, System 3)
 ## Emulators
