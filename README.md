@@ -3,45 +3,52 @@ Awesome list of mainframe related resources &amp; projects and is currently in a
 
 If you would like to contribute to this list, please submit a pull request.  If you are not familiar with git pull request sand want to just submit a minor correction or a new link, just open an "issue" in github.  This will ensure that any submissions are not overlooked.
 
-## Contents <!-- omit in toc -->
-- [Getting Started](#getting-started)
-- [General](#general)
-- [Emulators](#emulators)
-- [Hercules GUI Front Ends](#hercules-gui-front-ends)
-- [TN3270 Terminal Emulators](#tn3270-terminal-emulators)
-  - [TN3270/3270 Tech Info](#tn32703270-tech-info)
-- [Operating Systems](#operating-systems)
-  - [MVS](#mvs)
-    - [MVS Information](#mvs-information)
-    - [MVS Videos](#mvs-videos)
-  - [VM/370](#vm370)
-    - [VM/370 Videos](#vm370-videos)
-  - [MUSIC/SP](#musicsp)
-  - [Michigan Terminal System](#michigan-terminal-system)
-  - [Linux](#linux)
-  - [DOS/360](#dos360)
-  - [OS/360](#os360)
-  - [MVT](#mvt)
-  - [MFT](#mft)
-  - [DOS/VS](#dosvs)
-- [CICS](#cics)
-- [Programming Languages](#programming-languages)
-- [Assembler](#assembler)
-    - [Assembler Tutorials / Courses](#assembler-tutorials--courses)
-  - [BASIC](#basic)
-  - [C](#c)
-  - [CLIST](#clist)
-  - [COBOL](#cobol)
-    - [COBOL Tutorials / Courses](#cobol-tutorials--courses)
-    - [COBOL Videos](#cobol-videos)
-  - [JCL](#jcl)
-  - [REXX](#rexx)
-    - [REXX Tutorials / Courses](#rexx-tutorials--courses)
-- [Mainframe Related YouTube Channels](#mainframe-related-youtube-channels)
-- [Mainframe Blogs](#mainframe-blogs)
-- [Courses](#courses)
-- [Free or Opensource Software to run on your Mainframe](#free-or-opensource-software-to-run-on-your-mainframe)
-- [Others / Yet to be categorized](#others--yet-to-be-categorized)
+# Contents <!-- omit in toc -->
+- [IBM System/360, System/370, System/390, z Mainframes](#ibm-system360-system370-system390-z-mainframes)
+  - [Getting Started](#getting-started)
+  - [General](#general)
+  - [Emulators](#emulators)
+  - [Hercules GUI Front Ends](#hercules-gui-front-ends)
+  - [TN3270 Terminal Emulators](#tn3270-terminal-emulators)
+    - [TN3270/3270 Tech Info](#tn32703270-tech-info)
+  - [Operating Systems](#operating-systems)
+    - [MVS](#mvs)
+      - [MVS Information](#mvs-information)
+      - [MVS Videos](#mvs-videos)
+    - [VM/370](#vm370)
+      - [VM/370 Videos](#vm370-videos)
+    - [MUSIC/SP](#musicsp)
+    - [Michigan Terminal System](#michigan-terminal-system)
+    - [Linux](#linux)
+    - [DOS/360](#dos360)
+    - [OS/360](#os360)
+    - [MVT](#mvt)
+    - [MFT](#mft)
+    - [DOS/VS](#dosvs)
+  - [CICS](#cics)
+  - [Programming Languages](#programming-languages)
+  - [Assembler](#assembler)
+      - [Assembler Tutorials / Courses](#assembler-tutorials--courses)
+    - [BASIC](#basic)
+    - [C](#c)
+    - [CLIST](#clist)
+    - [COBOL](#cobol)
+      - [COBOL Tutorials / Courses](#cobol-tutorials--courses)
+      - [COBOL Videos](#cobol-videos)
+    - [JCL](#jcl)
+    - [REXX](#rexx)
+      - [REXX Tutorials / Courses](#rexx-tutorials--courses)
+  - [Mainframe Related YouTube Channels](#mainframe-related-youtube-channels)
+  - [Mainframe Blogs](#mainframe-blogs)
+  - [Courses](#courses)
+  - [Free or Opensource Software to run on your Mainframe](#free-or-opensource-software-to-run-on-your-mainframe)
+  - [Others / Yet to be categorized](#others--yet-to-be-categorized)
+  - [https://github.com/roblthegreat/MainframeNotebook.wiki.git](#httpsgithubcomroblthegreatmainframenotebookwikigit)
+- [Other IBM Mainframes (IBM 1401, 1620, 7090/7094, System 3)](#other-ibm-mainframes-ibm-1401-1620-70907094-system-3)
+  - [Emulators](#emulators-1)
+  - [Software](#software)
+
+# IBM System/360, System/370, System/390, z Mainframes
 
 ## Getting Started
 
@@ -158,3 +165,10 @@ The list below are YouTube Channels that feature mainframe related videos.
 ## Others / Yet to be categorized
 * [Collection of IBM Mainframe Progamming Quick References](http://ibmmainframes.com/references/)
 * [Scott C's List of Hercules Related Links](https://curlie.org/Computers/Emulators/IBM_Mainframe/Hercules/) - Another list of links, similar to the Awesome Mainfames list.
+https://github.com/roblthegreat/MainframeNotebook.wiki.git
+---
+# Other IBM Mainframes (IBM 1401, 1620, 7090/7094, System 3)
+## Emulators
+* [SimH](http://simh.trailing-edge.com/) ([github](https://github.com/simh/simh)) SimH (History Simulator) is a collection of simulators for historically significant or just plain interesting computer hardware and software from the past. It emulates IBM 1401, 1620, 7090/7094, System 3, as well as many other historical computers.
+## Software
+* [SimH Software Kits](http://simh.trailing-edge.com/software.html) - Various historical operating systems and software to run on your SimH emulated systems.
