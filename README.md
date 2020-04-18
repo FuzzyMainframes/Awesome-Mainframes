@@ -99,13 +99,13 @@ MUSIC/SP (Multi-User System for Interactive Computing/System Product; originally
 * [MUSIC/SP](http://www.canpub.com/teammpg/de/mcgweb/msi/musicsp.htm) - MUSIC/SP is short for Multi-User System for Interactive Computing / System Product. It is an operating system, similar in some ways to Unix. It is a true multi-tasking, multi-user system. 
 
 ### Michigan Terminal System
-The Michigan Terminal System (MTS) is one of the first time-sharing computer operating systems.[1] Developed in 1967 at the University of Michigan for use on IBM S/360-67, S/370 and compatible mainframe computers, it was developed and used by a consortium of eight universities in the United States, Canada, and the United Kingdom over a period of 33 years (1967 to 1999)
+The Michigan Terminal System (MTS) is one of the first time-sharing computer operating systems.Developed in 1967 at the University of Michigan for use on IBM S/360-67, S/370 and compatible mainframe computers.
 * [Michigan Terminal System Archive](http://archive.michigan-terminal-system.org)
 
 ### Linux
 * [Linux/390 at Princeton University](http://linuxvm.org/penguinvm/)
 * [Gentoo Linux/390 on Hercules](https://wiki.gentoo.org/wiki/S390/Hercules) - This guide is about installing Gentoo in a emulated S390 machine using Hercules.
-* [How to install Ubuntu 18.04 on the Hercules mainframe - M87](https://www.youtube.com/watch?v=QTBNt32ERWE)
+* [How to install Ubuntu 18.04 on the Hercules mainframe - M87](https://www.youtube.com/watch?v=QTBNt32ERWE) video from [Moshix](https://github.com/moshix)
 ### DOS/360
 ### OS/360
 ### MVT
@@ -115,7 +115,7 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 
 ## CICS
 * [KICKS for TSO](http://kicksfortso.com) - A free replacement for CICS which runs in the TSO or CMS environments
-  * [KICKS ( CICS ) for IBM MVS 3.8 - Transaction processing - M24](https://www.youtube.com/watch?v=u_ZSH9OagTM) - Moshix's video on installing KICKS for TSO
+  * [KICKS ( CICS ) for IBM MVS 3.8 - Transaction processing - M24](https://www.youtube.com/watch?v=u_ZSH9OagTM) - [Moshix](https://github.com/moshix)'s video on installing KICKS for TSO
   * [An idiot at a mainframe](https://idiotmainframe.blogspot.com) - Johan's Blog.  Although listed in the blogs category, he posts lots of information on using KICKS, so it warrants inclusion here as well.
 * [Mainframe CICS World](https://sites.google.com/site/mainframecicsworld/) (YOUTUBE) - Lots of information about CICS
 
@@ -123,7 +123,7 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 ### Assembler
 * [IBM Mainframe Assembler - Hints and Tips](http://www.les-smith.com/software/assembler/assembler-hints-and-tips.htm)
 #### Assembler Tutorials / Courses
-* [Programming Assembler Language on the IBM Mainframes: An Introduction](http://www.edwardbosworth.com/My3121Textbook/MyText3121_AFrontMatter_V03.htm) by Edward L. Bosworth, Ph.D
+* [Programming Assembler Language on the IBM Mainframes: An Introduction](http://www.edwardbosworth.com/My3121Textbook/MyText3121_AFrontMatter_V03.htm) by Edward L. Bosworth, Ph.D.
 ### BASIC
 ### C
 ### CLIST
@@ -131,11 +131,11 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 #### COBOL Tutorials / Courses
 * [OpenMainframe Project's COBOL Programming](https://github.com/openmainframeproject/cobol-programming-course) - Opensource COBOL Programming course created during the COVID-19 pandemic.
 #### COBOL Videos
-* [Cobol and the New Jersey Health Dept Debacle - M169](https://www.youtube.com/watch?v=3KEQT7IPRgg) - A video from Moshix discussing the current situation with COBOL and the NJ Health Dept. and a brief overview of COBOL
-* [Hello world program in mainframe Cobol - M124](https://www.youtube.com/watch?v=exAp0Ddbi-c) - Moshix writes a Hello Word program in mainframe COBOL
-* [IBM MVS - Editing, compiling and executing a Cobol program - M2](https://www.youtube.com/watch?v=YA3FQOzr0ag)
-* [IBM OS/VS Cobol compiler vs modern IBM Enterprise Cobol compiler - M47](https://www.youtube.com/watch?v=sP2umvFZ3Xk)
-* [Systems programming with IBM Cobol - M72](https://www.youtube.com/watch?v=030TuJZ9wIo)
+* [Cobol and the New Jersey Health Dept Debacle - M169](https://www.youtube.com/watch?v=3KEQT7IPRgg) - A video from [Moshix](https://github.com/moshix) discussing the current situation with COBOL and the NJ Health Dept. and a brief overview of COBOL
+* [Hello world program in mainframe Cobol - M124](https://www.youtube.com/watch?v=exAp0Ddbi-c) - [Moshix](https://github.com/moshix) writes a Hello Word program in mainframe COBOL
+* [IBM MVS - Editing, compiling and executing a Cobol program - M2](https://www.youtube.com/watch?v=YA3FQOzr0ag) video from [Moshix](https://github.com/moshix)
+* [IBM OS/VS Cobol compiler vs modern IBM Enterprise Cobol compiler - M47](https://www.youtube.com/watch?v=sP2umvFZ3Xk) video from [Moshix](https://github.com/moshix)
+* [Systems programming with IBM Cobol - M72](https://www.youtube.com/watch?v=030TuJZ9wIo) video from [Moshix](https://github.com/moshix)
 
 ### JCL
 ### REXX
