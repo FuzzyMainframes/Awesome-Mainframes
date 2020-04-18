@@ -115,7 +115,7 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 ## Assembler
 * [IBM Mainframe Assembler - Hints and Tips](http://www.les-smith.com/software/assembler/assembler-hints-and-tips.htm)
 #### Assembler Tutorials / Courses
-[Programming Assembler Language on the IBM Mainframes: An Introduction](http://www.edwardbosworth.com/My3121Textbook/MyText3121_AFrontMatter_V03.htm) by by Edward L. Bosworth, Ph.D
+* [Programming Assembler Language on the IBM Mainframes: An Introduction](http://www.edwardbosworth.com/My3121Textbook/MyText3121_AFrontMatter_V03.htm) by Edward L. Bosworth, Ph.D
 ### BASIC
 ### C
 ### CLIST
