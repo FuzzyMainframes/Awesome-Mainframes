@@ -3,6 +3,8 @@ Awesome list of mainframe related resources &amp; projects and is currently in a
 
 If you would like to contribute to this list, please submit a pull request.  If you are not familiar with git pull request sand want to just submit a minor correction or a new link, just open an "issue" in github.  This will ensure that any submissions are not overlooked.
 
+This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
 # Contents <!-- omit in toc -->
 - [IBM System/360, System/370, System/390, z Mainframes](#ibm-system360-system370-system390-z-mainframes)
   - [Getting Started](#getting-started)
