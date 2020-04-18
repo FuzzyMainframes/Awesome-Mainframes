@@ -168,7 +168,7 @@ The list below are YouTube Channels that feature mainframe related videos.
 * [Scott C's List of Hercules Related Links](https://curlie.org/Computers/Emulators/IBM_Mainframe/Hercules/) - Another list of links, similar to the Awesome Mainfames list.
 ---
 # Other IBM Mainframes (IBM 1401, 1620, 7090/7094, System 3)
-Although the original intention of this list was to focus on the IBM System/360 and its descendants, [RattyDAVE](https://github.com/RattyDAVE) reminded me of SimH, which emulates some of IBM other mainframes, so I am including a section for those machines on this list as well.
+Although the original intention of this list was to focus on the IBM System/360 and its descendants, [RattyDAVE](https://github.com/RattyDAVE) reminded me of SimH, which emulates some of IBM's other mainframes, so I am including a section for those machines on this list as well.
 ## Emulators
 * [SimH](http://simh.trailing-edge.com/) ([github](https://github.com/simh/simh)) SimH (History Simulator) is a collection of simulators for historically significant or just plain interesting computer hardware and software from the past. It emulates IBM 1401, 1620, 7090/7094, System 3, as well as many other historical computers.
 ## Software
