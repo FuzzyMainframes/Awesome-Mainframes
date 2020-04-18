@@ -27,7 +27,7 @@ If you would like to contribute to this list, please submit a pull request.  If 
     - [DOS/VS](#dosvs)
   - [CICS](#cics)
   - [Programming Languages](#programming-languages)
-  - [Assembler](#assembler)
+    - [Assembler](#assembler)
       - [Assembler Tutorials / Courses](#assembler-tutorials--courses)
     - [BASIC](#basic)
     - [C](#c)
@@ -115,11 +115,12 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 
 ## CICS
 * [KICKS for TSO](http://kicksfortso.com) - A free replacement for CICS which runs in the TSO or CMS environments
-  * [KICKS ( CICS ) for IBM MVS 3.8 - Transaction processing - M24](https://www.youtube.com/watch?v=u_ZSH9OagTM) - Moshx's video on installing KICKS for TSO
+  * [KICKS ( CICS ) for IBM MVS 3.8 - Transaction processing - M24](https://www.youtube.com/watch?v=u_ZSH9OagTM) - Moshix's video on installing KICKS for TSO
+  * [An idiot at a mainframe](https://idiotmainframe.blogspot.com) - Johan's Blog.  Although listed in the blogs category, he posts lots of information on using KICKS, so it warrants inclusion here as well.
 * [Mainframe CICS World](https://sites.google.com/site/mainframecicsworld/) (YOUTUBE) - Lots of information about CICS
 
 ## Programming Languages
-## Assembler
+### Assembler
 * [IBM Mainframe Assembler - Hints and Tips](http://www.les-smith.com/software/assembler/assembler-hints-and-tips.htm)
 #### Assembler Tutorials / Courses
 * [Programming Assembler Language on the IBM Mainframes: An Introduction](http://www.edwardbosworth.com/My3121Textbook/MyText3121_AFrontMatter_V03.htm) by Edward L. Bosworth, Ph.D
@@ -167,6 +168,7 @@ The list below are YouTube Channels that feature mainframe related videos.
 * [Scott C's List of Hercules Related Links](https://curlie.org/Computers/Emulators/IBM_Mainframe/Hercules/) - Another list of links, similar to the Awesome Mainfames list.
 ---
 # Other IBM Mainframes (IBM 1401, 1620, 7090/7094, System 3)
+Although the original intention of this list was to focus on the IBM System/360 and its descendants, [RattyDAVE](https://github.com/RattyDAVE) reminded me of SimH, which emulates some of IBM other mainframes, so I am including a section for those machines on this list as well.
 ## Emulators
 * [SimH](http://simh.trailing-edge.com/) ([github](https://github.com/simh/simh)) SimH (History Simulator) is a collection of simulators for historically significant or just plain interesting computer hardware and software from the past. It emulates IBM 1401, 1620, 7090/7094, System 3, as well as many other historical computers.
 ## Software
