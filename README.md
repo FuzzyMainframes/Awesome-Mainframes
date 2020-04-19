@@ -44,8 +44,8 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
   - [Mainframe Blogs](#mainframe-blogs)
   - [Courses](#courses)
   - [Free or Opensource Software to run on your Mainframe](#free-or-opensource-software-to-run-on-your-mainframe)
+  - [Other lists of links](#other-lists-of-links)
   - [Others / Yet to be categorized](#others--yet-to-be-categorized)
-  - [* Scott C's List of Hercules Related Links - Another list of links, similar to the Awesome Mainfames list.](#ul-liscott-cs-list-of-hercules-related-links---another-list-of-links-similar-to-the-awesome-mainfames-listli-ul)
 - [Other IBM Mainframes (IBM 1401, 1620, 7090/7094, System 3)](#other-ibm-mainframes-ibm-1401-1620-70907094-system-3)
   - [Emulators](#emulators-1)
   - [Software](#software)
@@ -55,6 +55,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 ## Getting Started
 
 ## General
+* [OS Timeline](https://groups.io/g/hercules-os380/files/_$OSTL37.5.pdf) - "IBM Mainframe Operating Systems: Timeline and Brief Explanation For the IBM System/360 and Beyond" by Dave Morton.  ***NOTE:** You will need to join the "[hercules-os380](https://groups.io/g/hercules-os380/)" group before you will be able to access this document.*
 
 ## Emulators
 * [Hercules Spinhawk](https://github.com/rbowler/spinhawk) - Hercules 3.x - spinhawk is the repository for the production-quality version (release 3.xx) of the Hercules mainframe virtualization platform
@@ -83,6 +84,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 ### MVS
 * [Tur(n)key MVS 3.8j TK4-](http://wotho.ethz.ch/tk4-/) - The easiest way to get started with MVS.  TK4- is a pre-built distribution of MVS with many enhancements, bundled with programming languages and additional tools.
 * [Tur(n)key MVS 3.8j TK3](http://www.bsp-gmbh.com/turnkey/) - Volker Bandke's Tur(n)key MVS 3.8 TK3 distribution. 
+* [MVS/380](http://mvs380.sourceforge.net/) - MVS/380 is a patched version of MVS 3.8 and Hercules that allow access to 31-bit address space. 
 #### MVS Information
 * [MIB Mainframe Useful Commands - Basic V1.10](https://www.yumpu.com/it/document/read/7780434/mib-mainframe-useful-commands-basic-v110) - Cheatsheet of useful zOS / MVS commands from ibmmainframe.cn 
 * [TSO Tutorial](http://www.jaymoseley.com/hercules/tso_tutor/tsotutor.htm) - Jay Moseley's TSO Tutorial, based on MVS 3.8.
@@ -112,6 +114,7 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 ### DOS/360
 ### OS/360
 ### MVT
+* [MVT for APL Version 2.00](http://wotho.ethz.ch/mvt4apl-2.00/) - OS/360-MVT 21.8F customized for use with APL\360 Version 1 Modification Level 1
 ### MFT
 ### DOS/VS
 
@@ -167,9 +170,15 @@ The list below are YouTube Channels that feature mainframe related videos.
 * [CBT Tape](http://www.cbttape.org) - The CBT tape is a collection of freeware almost all open-source distribution for the IBM mainframe MVS and OS/390 operating system environment.
 * [Pycroft Six](http://www.prycroft6.com.au/software.html) - Pycroft Six's free MVS User Mods and Software, including REVIEW, a full-screen TSO browser and editor.
 
+## Other lists of links
+* [Scott C's List of Hercules Related Links](https://curlie.org/Computers/Emulators/IBM_Mainframe/Hercules/) - Another list of links, similar to the Awesome Mainfames list.
+* [DeepBlue2 Bookmarks](https://curlie.org/Bookmarks/D/deepblue2/) - another long list of links with mainframe resources. Sadly, some of the links point to sites that no longer exist.
+* [Tur(n)key #3, Hercules, MVS/380, VM/370, VM/380, DocLinks](https://webfiles.uci.edu/scosel/_TK3herc_links.html) 
+
+
 ## Others / Yet to be categorized
 * [Collection of IBM Mainframe Progamming Quick References](http://ibmmainframes.com/references/)
-* [Scott C's List of Hercules Related Links](https://curlie.org/Computers/Emulators/IBM_Mainframe/Hercules/) - Another list of links, similar to the Awesome Mainfames list.
+
 ---
 # Other IBM Mainframes (IBM 1401, 1620, 7090/7094, System 3)
 Although the original intention of this list was to focus on the IBM System/360 and its descendants, [RattyDAVE](https://github.com/RattyDAVE) reminded me of SimH, which emulates some of IBM's other mainframes, so I am including a section for those machines on this list as well.
