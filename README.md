@@ -1,7 +1,7 @@
 # Awesome Mainframes [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 Awesome list of mainframe related resources &amp; projects and is currently in a very early stage.
 
-If you would like to contribute to this list, please submit a pull request.  If you are not familiar with git pull request sand want to just submit a minor correction or a new link, just open an "issue" in github.  This will ensure that any submissions are not overlooked.
+If you would like to contribute to this list, please submit a pull request.  If you are not familiar with git pull request and want to just submit a minor correction or a new link, just open an "issue" in github.  This will ensure that any submissions are not overlooked.
 
 This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
