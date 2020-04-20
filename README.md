@@ -1,7 +1,7 @@
 # Awesome Mainframes [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 Awesome list of mainframe related resources &amp; projects and is currently in a very early stage.
 
-If you would like to contribute to this list, please submit a pull request.  If you are not familiar with git pull request sand want to just submit a minor correction or a new link, just open an "issue" in github.  This will ensure that any submissions are not overlooked.
+If you would like to contribute to this list, please submit a pull request.  If you are not familiar with git pull request and want to just submit a minor correction or a new link, just open an "issue" in github.  This will ensure that any submissions are not overlooked.
 
 This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -23,12 +23,12 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
     - [Michigan Terminal System](#michigan-terminal-system)
     - [Linux](#linux)
     - [DOS/360](#dos360)
-    - [OS/360](#os360)
-    - [MVT](#mvt)
-    - [MFT](#mft)
     - [DOS/VS](#dosvs)
+    - [OS/360 MFT](#os360-mft)
+    - [OS/360 MVT](#os360-mvt)
   - [CICS](#cics)
   - [Programming Languages](#programming-languages)
+    - [APL](#apl)
     - [Assembler](#assembler)
       - [Assembler Tutorials / Courses](#assembler-tutorials--courses)
     - [BASIC](#basic)
@@ -83,7 +83,8 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 ## Operating Systems
 ### MVS
 * [Tur(n)key MVS 3.8j TK4-](http://wotho.ethz.ch/tk4-/) - The easiest way to get started with MVS.  TK4- is a pre-built distribution of MVS with many enhancements, bundled with programming languages and additional tools.
-* [Tur(n)key MVS 3.8j TK3](http://www.bsp-gmbh.com/turnkey/) - Volker Bandke's Tur(n)key MVS 3.8 TK3 distribution. 
+* [Tur(n)key MVS 3.8j TK3](http://www.bsp-gmbh.com/turnkey/) - Volker Bandke's Tur(n)key MVS 3.8 TK3 distribution.
+* [Installing and running MVS 3.8j](http://www.jaymoseley.com/hercules/) - A hands on approach to generating a working MVS 3.8j system starting from the IBM MVS 3.7 starter system. 
 * [MVS/380](http://mvs380.sourceforge.net/) - MVS/380 is a patched version of MVS 3.8 and Hercules that allow access to 31-bit address space. 
 #### MVS Information
 * [MIB Mainframe Useful Commands - Basic V1.10](https://www.yumpu.com/it/document/read/7780434/mib-mainframe-useful-commands-basic-v110) - Cheatsheet of useful zOS / MVS commands from ibmmainframe.cn 
@@ -112,12 +113,17 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 * [Gentoo Linux/390 on Hercules](https://wiki.gentoo.org/wiki/S390/Hercules) - This guide is about installing Gentoo in a emulated S390 machine using Hercules.
 * [How to install Ubuntu 18.04 on the Hercules mainframe - M87](https://www.youtube.com/watch?v=QTBNt32ERWE) video from [Moshix](https://github.com/moshix)
 ### DOS/360
-### OS/360
-### MVT
-* [MVT for APL Version 2.00](http://wotho.ethz.ch/mvt4apl-2.00/) - OS/360-MVT 21.8F customized for use with APL\360 Version 1 Modification Level 1
-### MFT
+There are at least four installation procedures available. The first three are in the H390-DOS/VS groups.io group (free registration required) and the fourth is a stand-alone web site.
+* Bill Carlborg's [DOS360-2314.zip](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See zipped file within the files.zip zipped archive: dos360-2314.zip.
+* Ben Huntsman's [DYI-DOS360.zip](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See zipped file within the files.zip zipped archive: DIY-DOS360.zip.
+* Kevin Leonard's [DOS-360 26.2](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See folder within the files.zip zipped archive: DOS-360 26.2.
+* [Installing DOS/360 under Hercules 390](https://sites.google.com/site/dos360install/) - This site is loosely modeled on Jay Moseley's MVS 3.8j site noted above, under the MVS heading. 
 ### DOS/VS
-
+* Yahoo! user ceo1944's [2314DOS.zip](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See zipped file within the files.zip zipped archive: 2314dos.zip. This link downloads a zip archive of JCL and instructions from the H390-DOS/VS groups.io group; free registration required.
+### OS/360 MFT
+### OS/360 MVT
+IBM OS/360 MVT is a non-virtual storage operating system.
+* [Introduction to Generating and Running OS/360 on Hercules](http://www.conmicro.com/hercos360/) - Jay Maynard, "The Tron Guy", provides a good installation procedure.
 
 ## CICS
 * [KICKS for TSO](http://kicksfortso.com) - A free replacement for CICS which runs in the TSO or CMS environments
@@ -126,6 +132,8 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 * [Mainframe CICS World](https://sites.google.com/site/mainframecicsworld/) - Lots of information about CICS
 
 ## Programming Languages
+### APL
+* [MVT for APL Version 2.00](http://wotho.ethz.ch/mvt4apl-2.00/) - OS/360-MVT 21.8F customized for use with APL\360 Version 1 Modification Level 1 by Jürgen Winkelmann - [IBM APL\360 source code](http://www.computerhistory.org/atchm/the-apl-programming-language-source-code/) is also needed. Download the source code by accepting the [License Agreement](https://computerhistory.org/blogs/apl360-software-license-agreement/).
 ### Assembler
 * [IBM Mainframe Assembler - Hints and Tips](http://www.les-smith.com/software/assembler/assembler-hints-and-tips.htm)
 #### Assembler Tutorials / Courses
