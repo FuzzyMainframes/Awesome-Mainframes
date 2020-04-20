@@ -62,7 +62,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 * [Hercules Hyperion](https://github.com/hercules-390/hyperion) - The Hyperion version of Hercules is the official development version of the Hercules emulator and contains the latest bleeding edge changes made by Hercules developers to address various bugs that may exist in the production version.
 * [SDL Hercules Hyperion](http://www.softdevlabs.com/hyperion.html) - [(github repo)](https://github.com/SDL-Hercules-390/hyperion) SoftDevLabs (SDL) version of Hercules 4.x 
   * [Installing SDL Hyperion](https://geronimo370.nl/s370/hercules-installing/installing-sdl-hyperion/) - Gerrard Wassink's tutorial for compiling and installing SDL Hercules Hyperion on various architectures.
-  * [Build your latest version of Hercules from source - M82](https://www.youtube.com/watch?v=ZJI5v3-zEww&feature=youtu.be) (YOUTUBE) - Video from Moshix demonstrating building the latest version of Hercules from source code.
+  * [Build your latest version of Hercules from source - M82](https://www.youtube.com/watch?v=ZJI5v3-zEww&feature=youtu.be) (YOUTUBE) - Video from [Moshix](https://github.com/moshix) demonstrating building the latest version of Hercules from source code.
 
 ## Hercules GUI Front Ends
 * [HercGUI](http://softdevlabs.com/hercgui.html) - *"HercGUI The Hercules graphical user interface for Windows is a standard Windows program that makes using the Hercules emulator much easier and more enjoyable. It automatically maintains your Hercules configuration and log files by means of standard Windows dialogs and provides realistic real-time feedback of your virtual mainframe's activity."*  From Software Development Laboratories.
@@ -113,7 +113,7 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 * [Gentoo Linux/390 on Hercules](https://wiki.gentoo.org/wiki/S390/Hercules) - This guide is about installing Gentoo in a emulated S390 machine using Hercules.
 * [How to install Ubuntu 18.04 on the Hercules mainframe - M87](https://www.youtube.com/watch?v=QTBNt32ERWE) video from [Moshix](https://github.com/moshix)
 ### DOS/360
-There are at least four installation procedures available. The first three are in the H390-DOS/VS groups.io group (free registration required) and the fourth is a stand-alone web site.
+There are at least four installation procedures available. The first three are in the [H390-DOS/VS groups.io](https://groups.io/g/H390-DOSVS) group (free registration required) and the fourth is a stand-alone web site.
 * Bill Carlborg's [DOS360-2314.zip](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See zipped file within the files.zip zipped archive: dos360-2314.zip.
 * Ben Huntsman's [DYI-DOS360.zip](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See zipped file within the files.zip zipped archive: DIY-DOS360.zip.
 * Kevin Leonard's [DOS-360 26.2](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See folder within the files.zip zipped archive: DOS-360 26.2.
@@ -157,10 +157,10 @@ IBM OS/360 MVT is a non-virtual storage operating system.
 * [BREXX/370](https://github.com/mgrossmann/brexx370) - BREXX/370 is an actively maintained MVS-only port of Vasilis Vlachoudis' awesome rexx implementation. [Mike Grossmann](https://github.com/mgrossmann) and [Peter-Jacob](https://github.com/Peter-Jacob) have fixed several bugs and added many features, including support for VSAM and FSS full-screen interactive panels.
 #### REXX Tutorials / Courses
 * [Jim Barry's REXX Tutorial](http://www.kyla.co.uk/other/rexx1.htm#introduction)
-* [Install and run the newly released Rexx interpreter for MVS 3.8j - M113](https://www.youtube.com/watch?v=3Sg0mYdeIsE) video by Moshix
+* [Install and run the newly released Rexx interpreter for MVS 3.8j - M113](https://www.youtube.com/watch?v=3Sg0mYdeIsE) video by [Moshix](https://github.com/moshix)
 ## Mainframe Related YouTube Channels
 The list below are YouTube Channels that feature mainframe related videos.
-* [Moshix Mainframe Channel](https://www.youtube.com/user/moshe5760) - Moshix is a mainframe veteran with a large following of nearly 4,000 subscribers.  He frequently posts new videos covering everything mainframe-related.
+* [Moshix Mainframe Channel](https://www.youtube.com/user/moshe5760) - [Moshix](https://github.com/moshix) is a mainframe veteran with a large following of nearly 4,000 subscribers.  He frequently posts new videos covering everything mainframe-related.
 * [Mainframes & More with Matthew](https://www.youtube.com/channel/UCFvM_17zCxRhXHIhOyg-N3Q) - Videos on IBM mainframes and mini-computers.  He has a series of videos detailing how to sysgen (install) MVS 3.8 from scratch.
 
 ## Mainframe Blogs
