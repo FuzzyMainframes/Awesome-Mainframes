@@ -49,6 +49,8 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
   - [Courses](#courses)
   - [Free or Opensource Software to run on your Mainframe](#free-or-opensource-software-to-run-on-your-mainframe)
   - [Other lists of links](#other-lists-of-links)
+  - [Communities / Forums / Mailing Lists](#communities--forums--mailing-lists)
+    - [groups.io](#groupsio)
   - [Others / Yet to be categorized](#others--yet-to-be-categorized)
 - [Other IBM Mainframes (IBM 1401, 1620, 7090/7094, System 3)](#other-ibm-mainframes-ibm-1401-1620-70907094-system-3)
   - [Emulators](#emulators-1)
@@ -219,7 +221,16 @@ HNET is [Moshix](https://github.com/moshix)' BITNET compatible network of mainfr
 * [DeepBlue2 Bookmarks](https://curlie.org/Bookmarks/D/deepblue2/) - another long list of links with mainframe resources. Sadly, some of the links point to sites that no longer exist.
 * [Tur(n)key #3, Hercules, MVS/380, VM/370, VM/380, DocLinks](https://webfiles.uci.edu/scosel/_TK3herc_links.html) 
 
-
+## Communities / Forums / Mailing Lists
+### groups.io 
+Manu of these groups originated as a Yahoo! Group but after changes with Yahoo!, many of the members have migrated discussions to groups.io.
+* [h390-vm](https://groups.io/g/h390-vm) - For users of the VM/370 software on Hercules.
+* [H390-OSVS1](https://groups.io/g/H390-OSVS1) - This group is for users of IBM's OS/VS1 operating system on the Hercules emulator.
+* [H390-MVS](https://groups.io/g/H390-MVS)  - This group is dedicated to MVS users.
+* [H390-MUSIC](https://groups.io/g/H390-MUSIC) - Discussion group dedicated to running Music/SP under the Hercules mainframe emulator.
+* [H390-MTS](https://groups.io/g/H390-MTS) - For users of the MTS operating system on Hercules
+* [H390-DOSVS](https://groups.io/g/H390-DOSVS) - DOS/VS and DOS/VSE under Hercules
+* [KICKSforTSO](https://groups.io/g/KICKSforTSO) - Group for discussing KICKS for TSO on MVS TK4.
 ## Others / Yet to be categorized
 
 
