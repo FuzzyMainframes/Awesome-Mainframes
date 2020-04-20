@@ -43,6 +43,8 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
     - [REXX](#rexx)
       - [REXX Tutorials / Courses](#rexx-tutorials--courses)
   - [Mainframe Related YouTube Channels](#mainframe-related-youtube-channels)
+  - [HNET / BITNET](#hnet--bitnet)
+    - [HNET / BITNET Videos](#hnet--bitnet-videos)
   - [Mainframe Blogs](#mainframe-blogs)
   - [Courses](#courses)
   - [Free or Opensource Software to run on your Mainframe](#free-or-opensource-software-to-run-on-your-mainframe)
@@ -58,6 +60,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ## General
 * [OS Timeline](https://groups.io/g/hercules-os380/files/_$OSTL37.5.pdf) - "IBM Mainframe Operating Systems: Timeline and Brief Explanation For the IBM System/360 and Beyond" by Dave Morton.  ***NOTE:** You will need to join the "[hercules-os380](https://groups.io/g/hercules-os380/)" group before you will be able to access this document.*
+* [The Open Mainframe Project](https://www.openmainframeproject.org/) - *"The Open Mainframe Project is intended to serve as a focal point for deployment and use of Linux and Open Source in a mainframe computing environment. The Project intends to increase collaboration across the mainframe community and to develop shared tool sets and resources. Furthermore, the Project seeks to involve the participation of academic institutions to assist in teaching and educating the mainframe engineers and developers of tomorrow."*
 
 ## Emulators
 * [Hercules Spinhawk](https://github.com/rbowler/spinhawk) - Hercules 3.x - spinhawk is the repository for the production-quality version (release 3.xx) of the Hercules mainframe virtualization platform
@@ -122,6 +125,7 @@ There are at least four installation procedures available. The first three are i
 * [Installing DOS/360 under Hercules 390](https://sites.google.com/site/dos360install/) - This site is loosely modeled on Jay Moseley's MVS 3.8j site noted above, under the MVS heading. 
 ### DOS/VS
 * Yahoo! user ceo1944's [2314DOS.zip](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See zipped file within the files.zip zipped archive: 2314dos.zip. This link downloads a zip archive of JCL and instructions from the H390-DOS/VS groups.io group; free registration required.
+* [DOSVSE](https://github.com/moshix/DOSVSE) - DOS/VS, DOS/VSE, VSE/ESA, z/VSE related JCL, scripts, jobs and software from [Moshix](https://github.com/moshix)
 ### OS/360 MFT
 ### OS/360 MVT
 IBM OS/360 MVT is a non-virtual storage operating system.
@@ -164,6 +168,23 @@ IBM OS/360 MVT is a non-virtual storage operating system.
 The list below are YouTube Channels that feature mainframe related videos.
 * [Moshix Mainframe Channel](https://www.youtube.com/user/moshe5760) - [Moshix](https://github.com/moshix) is a mainframe veteran with a large following of nearly 4,000 subscribers.  He frequently posts new videos covering everything mainframe-related.
 * [Mainframes & More with Matthew](https://www.youtube.com/channel/UCFvM_17zCxRhXHIhOyg-N3Q) - Videos on IBM mainframes and mini-computers.  He has a series of videos detailing how to sysgen (install) MVS 3.8 from scratch.
+
+## HNET / BITNET
+BITNET was a co-operative U.S. university computer network founded in 1981 by Ira Fuchs at the City University of New York (CUNY) and Greydon Freeman at Yale University. BITNET's NJE (Network Job Entry) network protocols, called RSCS, were used for the huge IBM internal network known as VNET. The BITNET protocols were eventually ported to non-IBM mainframe operating systems, and became particularly widely implemented under VAX/VMS, in addition to DECnet.
+
+HNET is [Moshix](https://github.com/moshix)' BITNET compatible network of mainframes (both big iron and emulated), as well as Linux and VAX systems built upon NJE over TCP/IP. 
+* [NJE Subsystems for MVS 3.8J](https://github.com/moshix/nje38mvs) - This is Bob Polmanter's genial NJE subsystem for MVS 3.8. It works perfectly wiht TK4- MVS 3.8 (update 8).
+* [NetNJE](https://github.com/friedkiwi/netnje) - [Yvan Janssens](https://github.com/friedkiwi)'s NJE (Network Job Entry) server and client implemented in C#
+* [LinuxNJE](https://github.com/moshix/linuxNJE) - NJE for Linux. LinuxNJE is the third incarnation of the Hebrew University of Jersualem NJE protocol for UNIX and VMS. This version was updated by Moshix so that it compiles cleanly on modern gcc compiler and runs on modern Linux distribitions.
+* [HUJInje](https://github.com/moshix/HUJInje) - The original Hebrew University of Jerusalem NJE software.
+### HNET / BITNET Videos
+* [Connect MVS 3.8 to HNET/BITNET with NJE38 - M168](https://www.youtube.com/watch?v=8_esBksImCg&list=PLmD2RvHHbEaBJyWYyuBL4-kWr6vNEkR5B&index=2&t=0s) video by [Moshix](https://github.com/moshix)
+* [NJE, TCPIP, DECNET - openVMS speaks mainframe - M167](https://www.youtube.com/watch?v=3UZLYJktm_M&list=PLmD2RvHHbEaBJyWYyuBL4-kWr6vNEkR5B&index=3&t=0s) video by [Moshix](https://github.com/moshix)
+* [Use your Linux box to connect to the HNET bitnet network - M163](https://www.youtube.com/watch?v=1iHrNNH7plY&list=PLmD2RvHHbEaBJyWYyuBL4-kWr6vNEkR5B&index=4&t=0s) video by [Moshix](https://github.com/moshix)
+* [Mainframe discussion groups with HNET (BITNET) CONFERENCES - M162](https://www.youtube.com/watch?v=gsY_m8ufcs4&list=PLmD2RvHHbEaBJyWYyuBL4-kWr6vNEkR5B&index=5&t=0s) video by [Moshix](https://github.com/moshix)
+* [A chat server for HNET (BITNET) - M158](https://www.youtube.com/watch?v=VwbPgY-yQ7Q&list=PLmD2RvHHbEaBJyWYyuBL4-kWr6vNEkR5B&index=6&t=0s) video by [Moshix](https://github.com/moshix)
+* [Developing agile mainframe network apps for NJE - M157](https://www.youtube.com/watch?v=QZZJhTnbYUM&list=PLmD2RvHHbEaBJyWYyuBL4-kWr6vNEkR5B&index=7&t=0s) video by [Moshix](https://github.com/moshix)
+* [BITNET - The Awakening - M155](https://www.youtube.com/watch?v=SpUgWt9OWB0&list=PLmD2RvHHbEaBJyWYyuBL4-kWr6vNEkR5B&index=8&t=0s) video by [Moshix](https://github.com/moshix)
 
 ## Mainframe Blogs
 * [Geronimo/370](https://geronimo370.nl) - Gerrard Wassink's Blog
