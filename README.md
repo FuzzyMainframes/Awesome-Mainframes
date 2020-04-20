@@ -1,5 +1,7 @@
 # Awesome Mainframes [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
-Awesome list of mainframe related resources &amp; projects and is currently in a very early stage.
+Awesome list of mainframe related resources &amp; projects.  
+
+The target audience of this list are those that are interested in learning about mainframes with emphasis on the System/360 and it's descendants.
 
 If you would like to contribute to this list, please submit a pull request.  If you are not familiar with git pull request and want to just submit a minor correction or a new link, just open an "issue" in github.  This will ensure that any submissions are not overlooked.
 
