@@ -14,7 +14,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
   - [Emulators](#emulators)
   - [Hercules GUI Front Ends](#hercules-gui-front-ends)
   - [TN3270 Terminal Emulators](#tn3270-terminal-emulators)
-    - [TN3270/3270 Tech Info](#tn32703270-tech-info)
+    - [TN3270/3270 Technical Information](#tn32703270-technical-information)
   - [Operating Systems](#operating-systems)
     - [MVS](#mvs)
       - [MVS Information](#mvs-information)
@@ -82,7 +82,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 * [tn3270 for Macintosh](https://www.brown.edu/cis/tn3270/) - Free TN3270 emulator for macOS X versions prior to 10.15 (Catalina) as it requires 32-bit application support.
 * [PW3270](https://softwarepublico.gov.br/social/pw3270) ([github](https://github.com/PerryWerneck/pw3270)) - Opensource (GPL2) TN3270 emulator
 * [ZOC: SSH Client and Terminal Emulator for Windows and macOS](https://www.emtec.com/zoc/) - ZOC is a commercial, cross-platform terminal emulator with TN3270 emulation support.
-### TN3270/3270 Tech Info
+### TN3270/3270 Technical Information
 * [3270 Data Stream Programming](https://www.tommysprinkle.com/mvs/P3270/start.htm) - Tommy Sprinkle's refrence on 3270 Data Streams.  
 
 ## Operating Systems
@@ -104,6 +104,13 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 * [Six Pack, Version 1.3 Beta](http://www.smrcc.org.uk/members/g4ugm/SixPack-1.3.Beta.htm)
 * [Six Pack Extended (6PExt)](https://geronimo370.nl/vm6pext/vm-370/)-René Farland's unofficial update to the original Six Pack Version 1.2 Distribution. 6PExt includes the recent RSCS nucleus of Peter Coghlan for NJE support.
 #### VM/370 Videos
+* [Get data in and out of VM/370 and z/VM - M101](https://www.youtube.com/watch?v=U-kFCsiqB0c&list=PLmD2RvHHbEaDX9PK0nxBlGbZpKJKU26WX&index=8&t=0s) video by [Moshix](https://github.com/moshix)
+* [Tape operations on VM/370 - M96](https://www.youtube.com/watch?v=HfSPt66v7Hk&list=PLmD2RvHHbEaDX9PK0nxBlGbZpKJKU26WX&index=6&t=0s) video by [Moshix](https://github.com/moshix)
+* [VSAM on IBM VM/370 - M93](https://www.youtube.com/watch?v=YDX-gn1WmNU&list=PLmD2RvHHbEaDX9PK0nxBlGbZpKJKU26WX&index=5&t=0s) video by [Moshix](https://github.com/moshix)
+* [Maintaining the user directory on VM/370 or z/VM - M90](https://www.youtube.com/watch?v=auRtWgQSSfc&list=PLmD2RvHHbEaDX9PK0nxBlGbZpKJKU26WX&index=3&t=0s) video by [Moshix](https://github.com/moshix)
+* [Protect our hosted MVS 3.8 and VM/370 mainframes with iptables - M147](https://www.youtube.com/watch?v=yuS9Hih1vxA&list=PLmD2RvHHbEaDX9PK0nxBlGbZpKJKU26WX&index=18&t=0s) video by [Moshix](https://github.com/moshix) explaining how to secure an emulated mainframe with iptables.
+* [Making MVS and VM/370 coexist peacefully - M153](https://www.youtube.com/watch?v=73cPmEe-Qm4&list=PLmD2RvHHbEaDX9PK0nxBlGbZpKJKU26WX&index=22&t=0s) video by [Moshix](https://github.com/moshix)
+
 
 ### MUSIC/SP
 MUSIC/SP (Multi-User System for Interactive Computing/System Product; originally "McGill University System for Interactive Computing") was developed at McGill University in the 1970s from an early IBM time-sharing system called RAX (Remote Access Computing System). 
@@ -148,6 +155,7 @@ IBM OS/360 MVT is a non-virtual storage operating system.
 * [Batch Basic interpreter for MVS 3.8 on IBM S/370](https://github.com/moshix/BASIC360)
 ### C
 ### CLIST
+* [Jay Moseley's TSO Tutorial](http://www.jaymoseley.com/hercules/tso_tutor/tsotutor.htm) - Although intended to be a TSO tutorial, the later parts of the turorial focus on Command Lists (CLIST).
 ### COBOL
 #### COBOL Tutorials / Courses
 * [OpenMainframe Project's COBOL Programming](https://github.com/openmainframeproject/cobol-programming-course) - Opensource COBOL Programming course created during the COVID-19 pandemic.
