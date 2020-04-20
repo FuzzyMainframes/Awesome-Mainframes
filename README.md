@@ -59,8 +59,9 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 ## Getting Started
 
 ## General
-* [OS Timeline](https://groups.io/g/hercules-os380/files/_$OSTL37.5.pdf) - "IBM Mainframe Operating Systems: Timeline and Brief Explanation For the IBM System/360 and Beyond" by Dave Morton.  ***NOTE:** You will need to join the "[hercules-os380](https://groups.io/g/hercules-os380/)" group before you will be able to access this document.*
+* [OS Timeline](https://groups.io/g/hercules-os380/files/_$OSTL37.5.pdf) - "IBM Mainframe Operating Systems: Timeline and Brief Explanation For the IBM System/360 and Beyond" by Dave Morton.  ***NOTE:** You will need to join the [hercules-os380](https://groups.io/g/hercules-os380/) group before you will be able to access this document.*
 * [The Open Mainframe Project](https://www.openmainframeproject.org/) - *"The Open Mainframe Project is intended to serve as a focal point for deployment and use of Linux and Open Source in a mainframe computing environment. The Project intends to increase collaboration across the mainframe community and to develop shared tool sets and resources. Furthermore, the Project seeks to involve the participation of academic institutions to assist in teaching and educating the mainframe engineers and developers of tomorrow."*
+* [Collection of IBM Mainframe Progamming Quick References](http://ibmmainframes.com/references/)
 
 ## Emulators
 * [Hercules Spinhawk](https://github.com/rbowler/spinhawk) - Hercules 3.x - spinhawk is the repository for the production-quality version (release 3.xx) of the Hercules mainframe virtualization platform
@@ -126,12 +127,12 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 * [How to install Ubuntu 18.04 on the Hercules mainframe - M87](https://www.youtube.com/watch?v=QTBNt32ERWE) video from [Moshix](https://github.com/moshix)
 ### DOS/360
 There are at least four installation procedures available. The first three are in the [H390-DOS/VS groups.io](https://groups.io/g/H390-DOSVS) group (free registration required) and the fourth is a stand-alone web site.
-* Bill Carlborg's [DOS360-2314.zip](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See zipped file within the files.zip zipped archive: dos360-2314.zip.
-* Ben Huntsman's [DYI-DOS360.zip](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See zipped file within the files.zip zipped archive: DIY-DOS360.zip.
-* Kevin Leonard's [DOS-360 26.2](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See folder within the files.zip zipped archive: DOS-360 26.2.
+* [Bill Carlborg's DOS360-2314.zip](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See zipped file within the files.zip zipped archive: dos360-2314.zip.
+* [Ben Huntsman's DYI-DOS360.zip](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See zipped file within the files.zip zipped archive: DIY-DOS360.zip.
+* [Kevin Leonard's DOS-360 26.2](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See folder within the files.zip zipped archive: DOS-360 26.2.
 * [Installing DOS/360 under Hercules 390](https://sites.google.com/site/dos360install/) - This site is loosely modeled on Jay Moseley's MVS 3.8j site noted above, under the MVS heading. 
 ### DOS/VS
-* Yahoo! user ceo1944's [2314DOS.zip](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See zipped file within the files.zip zipped archive: 2314dos.zip. This link downloads a zip archive of JCL and instructions from the H390-DOS/VS groups.io group; free registration required.
+* [Yahoo! user ceo1944's 2314DOS.zip](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See zipped file within the files.zip zipped archive: 2314dos.zip. This link downloads a zip archive of JCL and instructions from the H390-DOS/VS groups.io group; free registration required.
 * [DOSVSE](https://github.com/moshix/DOSVSE) - DOS/VS, DOS/VSE, VSE/ESA, z/VSE related JCL, scripts, jobs and software from [Moshix](https://github.com/moshix)
 ### OS/360 MFT
 ### OS/360 MVT
@@ -220,7 +221,7 @@ HNET is [Moshix](https://github.com/moshix)' BITNET compatible network of mainfr
 
 
 ## Others / Yet to be categorized
-* [Collection of IBM Mainframe Progamming Quick References](http://ibmmainframes.com/references/)
+
 
 ---
 # Other IBM Mainframes (IBM 1401, 1620, 7090/7094, System 3)
