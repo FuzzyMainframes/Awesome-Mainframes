@@ -223,7 +223,7 @@ HNET is [Moshix](https://github.com/moshix)' BITNET compatible network of mainfr
 
 ## Communities / Forums / Mailing Lists
 ### groups.io 
-Manu of these groups originated as a Yahoo! Group but after changes with Yahoo!, many of the members have migrated discussions to groups.io.
+Many of these groups originated as a Yahoo! Group but after changes with Yahoo!, most of the members have migrated discussions to groups.io.
 * [h390-vm](https://groups.io/g/h390-vm) - For users of the VM/370 software on Hercules.
 * [H390-OSVS1](https://groups.io/g/H390-OSVS1) - This group is for users of IBM's OS/VS1 operating system on the Hercules emulator.
 * [H390-MVS](https://groups.io/g/H390-MVS)  - This group is dedicated to MVS users.
