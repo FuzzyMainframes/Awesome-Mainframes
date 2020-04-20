@@ -173,7 +173,7 @@ The list below are YouTube Channels that feature mainframe related videos.
 BITNET was a co-operative U.S. university computer network founded in 1981 by Ira Fuchs at the City University of New York (CUNY) and Greydon Freeman at Yale University. BITNET's NJE (Network Job Entry) network protocols, called RSCS, were used for the huge IBM internal network known as VNET. The BITNET protocols were eventually ported to non-IBM mainframe operating systems, and became particularly widely implemented under VAX/VMS, in addition to DECnet.
 
 HNET is [Moshix](https://github.com/moshix)' BITNET compatible network of mainframes (both big iron and emulated), as well as Linux and VAX systems built upon NJE over TCP/IP. 
-* [NJE Subsystems for MVS 3.8J](https://github.com/moshix/nje38mvs) - This is Bob Polmanter's genial NJE subsystem for MVS 3.8. It works perfectly wiht TK4- MVS 3.8 (update 8).
+* [NJE Subsystems for MVS 3.8J](https://github.com/moshix/nje38mvs) - This is Bob Polmanter's genial NJE subsystem for MVS 3.8. It works perfectly with TK4- MVS 3.8 (update 8).
 * [NetNJE](https://github.com/friedkiwi/netnje) - [Yvan Janssens](https://github.com/friedkiwi)'s NJE (Network Job Entry) server and client implemented in C#
 * [LinuxNJE](https://github.com/moshix/linuxNJE) - NJE for Linux. LinuxNJE is the third incarnation of the Hebrew University of Jersualem NJE protocol for UNIX and VMS. This version was updated by Moshix so that it compiles cleanly on modern gcc compiler and runs on modern Linux distribitions.
 * [HUJInje](https://github.com/moshix/HUJInje) - The original Hebrew University of Jerusalem NJE software.
@@ -190,6 +190,7 @@ HNET is [Moshix](https://github.com/moshix)' BITNET compatible network of mainfr
 * [Geronimo/370](https://geronimo370.nl) - Gerrard Wassink's Blog
 * [An idiot at a mainframe](https://idiotmainframe.blogspot.com) - Johan's Blog.  Lots of information on using KICKS.
 * [mainframe.dev](https://blog.mainframe.dev) - Christian Svensson's blog
+  
 ## Courses
 * [The Complete Mainframe Professional Course : TSO/ISPF](https://www.udemy.com/course/the-complete-mainframe-professional-course-tso-ispf/) (UDEMY) by Abhishek Rathi. *"The first step in learning about Mainframes. 4 Courses in 1. Covers TSO, ISPF, JCL, VSAM, COBOL and CICS."*
 * [Mainframe : The Complete TSO/ISPF from Beginner to Expert](https://www.udemy.com/course/master-tso-ispf-on-mainframe-from-scratch-to-advanced-level/) (UDEMY) by Sandeep Kumar. *"Best TSO/ISPF Course. TSO and ISPF commands are explained in detail. Simplified COBOL covered as bonus along with JCL."*
