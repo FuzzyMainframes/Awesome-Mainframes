@@ -23,12 +23,12 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
     - [Michigan Terminal System](#michigan-terminal-system)
     - [Linux](#linux)
     - [DOS/360](#dos360)
-    - [OS/360](#os360)
-    - [MVT](#mvt)
-    - [MFT](#mft)
     - [DOS/VS](#dosvs)
+    - [OS/360 MFT](#os360-mft)
+    - [OS/360 MVT](#os360-mvt)
   - [CICS](#cics)
   - [Programming Languages](#programming-languages)
+    - [APL](#apl)
     - [Assembler](#assembler)
       - [Assembler Tutorials / Courses](#assembler-tutorials--courses)
     - [BASIC](#basic)
@@ -112,12 +112,9 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 * [Gentoo Linux/390 on Hercules](https://wiki.gentoo.org/wiki/S390/Hercules) - This guide is about installing Gentoo in a emulated S390 machine using Hercules.
 * [How to install Ubuntu 18.04 on the Hercules mainframe - M87](https://www.youtube.com/watch?v=QTBNt32ERWE) video from [Moshix](https://github.com/moshix)
 ### DOS/360
-### OS/360
-### MVT
-* [MVT for APL Version 2.00](http://wotho.ethz.ch/mvt4apl-2.00/) - OS/360-MVT 21.8F customized for use with APL\360 Version 1 Modification Level 1
-### MFT
 ### DOS/VS
-
+### OS/360 MFT
+### OS/360 MVT
 
 ## CICS
 * [KICKS for TSO](http://kicksfortso.com) - A free replacement for CICS which runs in the TSO or CMS environments
@@ -126,6 +123,8 @@ The Michigan Terminal System (MTS) is one of the first time-sharing computer ope
 * [Mainframe CICS World](https://sites.google.com/site/mainframecicsworld/) - Lots of information about CICS
 
 ## Programming Languages
+### APL
+* [MVT for APL Version 2.00](http://wotho.ethz.ch/mvt4apl-2.00/) - OS/360-MVT 21.8F customized for use with APL\360 Version 1 Modification Level 1 by Jürgen Winkelmann - [IBM APL\360 source code](http://www.computerhistory.org/atchm/the-apl-programming-language-source-code/) is also needed.
 ### Assembler
 * [IBM Mainframe Assembler - Hints and Tips](http://www.les-smith.com/software/assembler/assembler-hints-and-tips.htm)
 #### Assembler Tutorials / Courses
