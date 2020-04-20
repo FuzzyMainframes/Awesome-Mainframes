@@ -1,4 +1,6 @@
 # Awesome Mainframes [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
+![system 360](media/320px-IBM_System360_Mainframe.jpg)
+
 Awesome list of mainframe related resources &amp; projects.  
 
 The target audience of this list are those that are interested in learning about mainframes with emphasis on the System/360 and it's descendants.
@@ -90,10 +92,10 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ## Operating Systems
 ### MVS
-* [Tur(n)key MVS 3.8j TK4-](http://wotho.ethz.ch/tk4-/) - The easiest way to get started with MVS.  TK4- is a pre-built distribution of MVS with many enhancements, bundled with programming languages and additional tools.
+* [Tur(n)key MVS 3.8j TK4-](http://wotho.ethz.ch/tk4-/) - The easiest way to get started with MVS.  TK4- is a pre-built distribution of MVS with many enhancements, bundled with programming languages and additional tools.  It is ready to run on Linux, MacOS X, Windows, and even a Raspberry Pi (in the more recent releases).
 * [Tur(n)key MVS 3.8j TK3](http://www.bsp-gmbh.com/turnkey/) - Volker Bandke's Tur(n)key MVS 3.8 TK3 distribution.
 * [Installing and running MVS 3.8j](http://www.jaymoseley.com/hercules/) - A hands on approach to generating a working MVS 3.8j system starting from the IBM MVS 3.7 starter system. 
-* [MVS/380](http://mvs380.sourceforge.net/) - MVS/380 is a patched version of MVS 3.8 and Hercules that allow access to 31-bit address space. 
+* [MVS/380](http://mvs380.sourceforge.net/) - MVS/380 is a patched version of MVS 3.8 and Hercules that allows access to 31-bit address space. 
 #### MVS Information
 * [MIB Mainframe Useful Commands - Basic V1.10](https://www.yumpu.com/it/document/read/7780434/mib-mainframe-useful-commands-basic-v110) - Cheatsheet of useful zOS / MVS commands from ibmmainframe.cn 
 * [TSO Tutorial](http://www.jaymoseley.com/hercules/tso_tutor/tsotutor.htm) - Jay Moseley's TSO Tutorial, based on MVS 3.8.
