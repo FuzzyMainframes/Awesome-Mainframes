@@ -86,7 +86,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 * [PW3270](https://softwarepublico.gov.br/social/pw3270) ([github](https://github.com/PerryWerneck/pw3270)) - Opensource (GPL2) TN3270 emulator
 * [ZOC: SSH Client and Terminal Emulator for Windows and macOS](https://www.emtec.com/zoc/) - ZOC is a commercial, cross-platform terminal emulator with TN3270 emulation support.
 ### TN3270/3270 Technical Information
-* [3270 Data Stream Programming](https://www.tommysprinkle.com/mvs/P3270/start.htm) - Tommy Sprinkle's refrence on 3270 Data Streams.  
+* [3270 Data Stream Programming](https://www.tommysprinkle.com/mvs/P3270/start.htm) - Tommy Sprinkle's reference on 3270 Data Streams.  
 
 ## Operating Systems
 ### MVS
