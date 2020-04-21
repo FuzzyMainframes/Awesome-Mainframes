@@ -63,7 +63,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 ## Getting Started
 
 ## General
-* [OS Timeline](https://webfiles.uci.edu/scosel/_$OSTL37.5.pdf) - "IBM Mainframe Operating Systems: Timeline and Brief Explanation For the IBM System/360 and Beyond" by Dave Morton. Alternate link: https://groups.io/g/hercules-os380/files/_$OSTL37.5.pdf ***NOTE:** You will need to join the [hercules-os380](https://groups.io/g/hercules-os380/) group before you will be able to access this document.*
+* [OS Timeline](https://webfiles.uci.edu/scosel/_$OSTL37.5.pdf) - "IBM Mainframe Operating Systems: Timeline and Brief Explanation For the IBM System/360 and Beyond" by Dave Morton. Alternate link: https://groups.io/g/hercules-os380/files/_$OSTL37.5.pdf ***NOTE:** You will need to join the [hercules-os380](https://groups.io/g/hercules-os380/) group before you will be able to access this document from the alternate link.*
 * [Original System/360 Mainframe Advertisement](http://www.ljw.me.uk/ibm360/nix/360a.html) Historically significant, as it is the original marketing adervertisment for the first System/360 mainframe.
 * [The Open Mainframe Project](https://www.openmainframeproject.org/) - *"The Open Mainframe Project is intended to serve as a focal point for deployment and use of Linux and Open Source in a mainframe computing environment. The Project intends to increase collaboration across the mainframe community and to develop shared tool sets and resources. Furthermore, the Project seeks to involve the participation of academic institutions to assist in teaching and educating the mainframe engineers and developers of tomorrow."*
 * [Collection of IBM Mainframe Progamming Quick References](http://ibmmainframes.com/references/)
