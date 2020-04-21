@@ -30,6 +30,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
     - [DOS/VS](#dosvs)
     - [OS/360 MFT](#os360-mft)
     - [OS/360 MVT](#os360-mvt)
+    - [TSS/370](#tss370)
   - [CICS](#cics)
   - [Programming Languages](#programming-languages)
     - [APL](#apl)
@@ -135,6 +136,7 @@ There are at least four installation procedures available. The first three are i
 * [Bill Carlborg's DOS360-2314.zip](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See zipped file within the files.zip zipped archive: dos360-2314.zip.
 * [Ben Huntsman's DYI-DOS360.zip](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See zipped file within the files.zip zipped archive: DIY-DOS360.zip.
 * [Kevin Leonard's DOS-360 26.2](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See folder within the files.zip zipped archive: DOS-360 26.2.
+*  [J. Maynard's IBM Public Domain Software Archive](http://www.ibiblio.org/jmaynard/) - Includes various versions of OS/360; Kevin Leonard's Turnkey MVT; DOS/360 and TOS/360; Andy Norrie's 4-pack VM/370; Volker Bandke's Tu(r)nkey TK3 MVS; and TSS/370.
 * [Installing DOS/360 under Hercules 390](https://sites.google.com/site/dos360install/) - This site is loosely modeled on Jay Moseley's MVS 3.8j site noted above, under the MVS heading. 
 ### DOS/VS
 * [Yahoo! user ceo1944's 2314DOS.zip](https://groups.io/g/H390-DOSVS/files/Yahoo-Archive/files.zip) - See zipped file within the files.zip zipped archive: 2314dos.zip. This link downloads a zip archive of JCL and instructions from the H390-DOS/VS groups.io group; free registration required.
@@ -143,7 +145,9 @@ There are at least four installation procedures available. The first three are i
 ### OS/360 MVT
 IBM OS/360 MVT is a non-virtual storage operating system.
 * [Introduction to Generating and Running OS/360 on Hercules](http://www.conmicro.com/hercos360/) - Jay Maynard, "The Tron Guy", provides a good installation procedure.
-
+* [J. Maynard's IBM Public Domain Software Archive](http://www.ibiblio.org/jmaynard/) - Includes various versions of OS/360; Kevin Leonard's Turnkey MVT; DOS/360 and TOS/360; Andy Norrie's 4-pack VM/370; Volker Bandke's Tu(r)nkey TK3 MVS; and TSS/370.
+### TSS/370
+* [J. Maynard's IBM Public Domain Software Archive](http://www.ibiblio.org/jmaynard/) - Includes various versions of OS/360; Kevin Leonard's Turnkey MVT; DOS/360 and TOS/360; Andy Norrie's 4-pack VM/370; Volker Bandke's Tu(r)nkey TK3 MVS; and TSS/370.
 ## CICS
 * [KICKS for TSO](http://kicksfortso.com) - A free replacement for CICS which runs in the TSO or CMS environments
   * [KICKS ( CICS ) for IBM MVS 3.8 - Transaction processing - M24](https://www.youtube.com/watch?v=u_ZSH9OagTM) - [Moshix](https://github.com/moshix)'s video on installing KICKS for TSO
@@ -235,7 +239,7 @@ Many of these groups originated as a Yahoo! Group but after changes with Yahoo!,
 * [H390-DOSVS](https://groups.io/g/H390-DOSVS) - DOS/VS and DOS/VSE under Hercules
 * [KICKSforTSO](https://groups.io/g/KICKSforTSO) - Group for discussing KICKS for TSO on MVS TK4.
 ## Others / Yet to be categorized
-
+  
 
 ---
 # Other IBM Mainframes (IBM 1401, 1620, 7090/7094, System 3)
