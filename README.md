@@ -177,6 +177,7 @@ IBM OS/360 MVT is a non-virtual storage operating system.
 * [Systems programming with IBM Cobol - M72](https://www.youtube.com/watch?v=030TuJZ9wIo) video from [Moshix](https://github.com/moshix)
 
 ### JCL
+* [Introductory Tutorial on JCL Utilities](http://www.bsp-gmbh.com/turnkey/cookbook/utilmvs.html)
 ### REXX
 * [BREXX/370](https://github.com/mgrossmann/brexx370) - BREXX/370 is an actively maintained MVS-only port of Vasilis Vlachoudis' awesome rexx implementation. [Mike Grossmann](https://github.com/mgrossmann) and [Peter-Jacob](https://github.com/Peter-Jacob) have fixed several bugs and added many features, including support for VSAM and FSS full-screen interactive panels.
 #### REXX Tutorials / Courses
@@ -230,14 +231,20 @@ HNET is [Moshix](https://github.com/moshix)' BITNET compatible network of mainfr
 
 ## Communities / Forums / Mailing Lists
 ### groups.io 
-Many of these groups originated as a Yahoo! Group but after changes with Yahoo!, most of the members have migrated discussions to groups.io.
-* [h390-vm](https://groups.io/g/h390-vm) - For users of the VM/370 software on Hercules.
-* [H390-OSVS1](https://groups.io/g/H390-OSVS1) - This group is for users of IBM's OS/VS1 operating system on the Hercules emulator.
-* [H390-MVS](https://groups.io/g/H390-MVS)  - This group is dedicated to MVS users.
-* [H390-MUSIC](https://groups.io/g/H390-MUSIC) - Discussion group dedicated to running Music/SP under the Hercules mainframe emulator.
-* [H390-MTS](https://groups.io/g/H390-MTS) - For users of the MTS operating system on Hercules
-* [H390-DOSVS](https://groups.io/g/H390-DOSVS) - DOS/VS and DOS/VSE under Hercules
-* [KICKSforTSO](https://groups.io/g/KICKSforTSO) - Group for discussing KICKS for TSO on MVS TK4.
+Many of these groups originated as a Yahoo! Group but after changes with Yahoo!, most of the members have migrated discussions to groups.io. Access to group messages, files and links are only available after joining each group (free membership).
+* [cbt-tape](https://groups.io/g/cbt-tape) - Discussion on the [CBT Tape](http://www.cbttape.org/) public domain mainframe software.
+* [H390-DOSVS](https://groups.io/g/H390-DOSVS) - Discussion on using the DOS/VS and DOS/VSE operating systems under the Hercules mainframe emulator.
+* [H390-MTS](https://groups.io/g/H390-MTS) - Discussion on using the [MTS operating system](https://try-mts.com/why-try-mts/) under the Hercules mainframe emulator.
+* [H390-MUSIC](https://groups.io/g/H390-MUSIC) - Discussion on using the [Music/SP operating system](http://www.canpub.com/teammpg/de/mcgweb/msi/musicsp.htm) under the Hercules mainframe emulator.
+* [H390-MVS](https://groups.io/g/H390-MVS) - Discussion on using the [MVS operating system](http://wotho.ethz.ch/tk4-/) under the Hercules mainframe emulator.
+* [H390-OSVS1](https://groups.io/g/H390-OSVS1) - Discussion on using IBM's OS/VS1 operating system under the Hercules mainframe emulator.
+* [h390-vm](https://groups.io/g/h390-vm) - Discussion on using the [VM/370 operating system](http://www.smrcc.org.uk/members/g4ugm/VM370.htm) under the Hercules mainframe emulator.
+* [hercules-390](https://hercules-390.groups.io/g/group) - Discussion on installing and/or using the [Hercules Hardware Emulator](http://www.hercules-390.eu/) itself. Discussion on installing and/or using specific operating system software should be discussed in one of the other listed groups.
+* [hercules-os380](https://groups.io/g/hercules-os380) - Discussion on the [Hercules-os380 operating system](https://sourceforge.net/projects/mvs380/files/mvs380/), a 31-bit operating system and its parts, running on the public domain MVS 3.8j operating system.
+* [hercules-s370asm](https://groups.io/g/hercules-s370asm) - Discussion on using S/370 assembler under the Hercules mainframe emulator.
+* [KICKSforTSO](https://groups.io/g/KICKSforTSO) - Discussion on using [KICKS](http://www.kicksfortso.com/) (CICS replacement) for TSO on [MVS TK4-](http://wotho.ethz.ch/tk4-/) under the Hercules mainframe emulator.
+* [turnkey-mvs](https://groups.io/g/turnkey-mvs) - Discussion on using the [Turnkey 4- MVS 3.8j operating system](http://wotho.ethz.ch/tk4-/) under the Hercules mainframe emulator.
+
 ## Others / Yet to be categorized
   
 
