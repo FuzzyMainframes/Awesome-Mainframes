@@ -240,8 +240,8 @@ Many of these groups originated as a Yahoo! Group but after changes with Yahoo!,
 * [H390-OSVS1](https://groups.io/g/H390-OSVS1) - Discussion on using IBM's OS/VS1 operating system under the Hercules mainframe emulator.
 * [h390-vm](https://groups.io/g/h390-vm) - Discussion on using the [VM/370 operating system](http://www.smrcc.org.uk/members/g4ugm/VM370.htm) under the Hercules mainframe emulator.
 * [hercules-390](https://hercules-390.groups.io/g/group) - Discussion on installing and/or using the [Hercules Hardware Emulator](http://www.hercules-390.eu/) itself. Discussion on installing and/or using specific operating system software should be discussed in one of the other listed groups.
-* [hercules-os380](https://groups.io/g/hercules-os380) - Discussion on the [Hercules-os380 operating system](https://sourceforge.net/projects/mvs380/files/mvs380/), a 31-bit operating system and its parts, running on the public domain MVS 3.8j operating system.
-* [hercules-s370asm](https://groups.io/g/hercules-s370asm) - Discussion on using S/370 assembler under the Hercules mainframe emulator.
+* [hercules-os380](https://groups.io/g/hercules-os380) - Discussion on using the 31-bit [Hercules-os380 operating system](https://sourceforge.net/projects/mvs380/files/mvs380/), and its parts, running on the public domain MVS 3.8j operating system under the Hercules mainframe emulator.
+* [hercules-s370asm](https://groups.io/g/hercules-s370asm) - Discussion on using [S/370 assembler](http://www.jaymoseley.com/hercules/compiling/how_to.htm#topic16) under the Hercules mainframe emulator.
 * [KICKSforTSO](https://groups.io/g/KICKSforTSO) - Discussion on using [KICKS](http://www.kicksfortso.com/) (CICS replacement) for TSO on [MVS TK4-](http://wotho.ethz.ch/tk4-/) under the Hercules mainframe emulator.
 * [turnkey-mvs](https://groups.io/g/turnkey-mvs) - Discussion on using the [Turnkey 4- MVS 3.8j operating system](http://wotho.ethz.ch/tk4-/) under the Hercules mainframe emulator.
 
