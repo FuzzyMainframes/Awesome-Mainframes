@@ -171,6 +171,7 @@ IBM OS/360 MVT is a non-virtual storage operating system.
 ### COBOL
 #### COBOL Tutorials / Courses
 * [OpenMainframe Project's COBOL Programming](https://github.com/openmainframeproject/cobol-programming-course) - Opensource COBOL Programming course created during the COVID-19 pandemic.
+* [http://www.csis.ul.ie/cobol/](University of Limerick - Department of CSIS - COBOL programming - tutorials, lectures, exercises, examples)
 #### COBOL Videos
 * [Cobol and the New Jersey Health Dept Debacle - M169](https://www.youtube.com/watch?v=3KEQT7IPRgg) - A video from [Moshix](https://github.com/moshix) discussing the current situation with COBOL and the NJ Health Dept. and a brief overview of COBOL
 * [Hello world program in mainframe Cobol - M124](https://www.youtube.com/watch?v=exAp0Ddbi-c) - [Moshix](https://github.com/moshix) writes a Hello Word program in mainframe COBOL
