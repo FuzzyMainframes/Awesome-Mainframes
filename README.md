@@ -159,8 +159,10 @@ IBM OS/360 MVT is a non-virtual storage operating system.
 * [MVT for APL Version 2.00](http://wotho.ethz.ch/mvt4apl-2.00/) - OS/360-MVT 21.8F customized for use with APL\360 Version 1 Modification Level 1 by Jürgen Winkelmann - [IBM APL\360 source code](http://www.computerhistory.org/atchm/the-apl-programming-language-source-code/) is also needed. Download the source code by accepting the [License Agreement](https://computerhistory.org/blogs/apl360-software-license-agreement/).
 ### Assembler
 * [IBM Mainframe Assembler - Hints and Tips](http://www.les-smith.com/software/assembler/assembler-hints-and-tips.htm)
+* [David Woolbright's Assembler Resources](http://csc.columbusstate.edu/woolbright/WOOLBRIG.htm)
 #### Assembler Tutorials / Courses
 * [Programming Assembler Language on the IBM Mainframes: An Introduction](http://www.edwardbosworth.com/My3121Textbook/MyText3121_AFrontMatter_V03.htm) by Edward L. Bosworth, Ph.D.
+* [Mainframe Assembler Programming by Bill Qualls](http://billqualls.com/assembler/)
 ### BASIC
 * [Batch Basic interpreter for MVS 3.8 on IBM S/370](https://github.com/moshix/BASIC360)
 ### C
