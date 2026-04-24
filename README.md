@@ -166,6 +166,9 @@ IBM OS/360 MVT is a non-virtual storage operating system.
 ### BASIC
 * [Batch Basic interpreter for MVS 3.8 on IBM S/370](https://github.com/moshix/BASIC360)
 ### C
+* [GCC Linux cross-compiler to Assembler 370](https://github.com/yetacp/gcc_mvs)
+* [Native VM/CMS C Library](https://github.com/adesutherland/CMS-370-GCCLIB)
+* [Portable C Compiler](https://github.com/mmhhpp/pcc370)
 ### CLIST
 * [Jay Moseley's TSO Tutorial](http://www.jaymoseley.com/hercules/tso_tutor/tsotutor.htm) - Although intended to be a TSO tutorial, the later parts of the turorial focus on Command Lists (CLIST).
 ### COBOL
