@@ -2,6 +2,9 @@
  <!-- omit in toc -->
 ![system 360](media/320px-IBM_System360_Mainframe.jpg)
 
+> [!NOTE]
+> **Heads up:** This list is being reviewed, reorganized, and refreshed over the next few weeks as part of a stewardship transition. Expect updated links, restructured sections, and new additions. PRs and issue reports are very welcome during this period.
+
 Awesome list of mainframe related resources &amp; projects.  
 
 The target audience of this list are those that are interested in learning about mainframes with emphasis on the System/360 and it's descendants.
