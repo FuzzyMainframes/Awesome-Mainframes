@@ -216,6 +216,9 @@ IBM OS/360 MVT is a non-virtual storage operating system.
 - [GCC Linux cross-compiler to Assembler 370](https://github.com/yetacp/gcc_mvs)
 - [Native VM/CMS C Library](https://github.com/adesutherland/CMS-370-GCCLIB)
 - [Portable C Compiler](https://github.com/mmhhpp/pcc370)
+- [c2asm370](https://github.com/mvslovers/c2asm370) - A C cross-compiler targeting IBM System/370 assembly, based on GCC 3.2.3.  Maintained by the [mvslovers](https://github.com/mvslovers) community.
+- [crent370](https://github.com/mvslovers/crent370) - A reentrant C runtime library for MVS 3.8j (TK4-, TK5, CE).  Originally created by Michael Dean Rayborn, now maintained by the [mvslovers](https://github.com/mvslovers) community.
+- [JCC](https://github.com/mvslovers/jcc) - Jason Paul Winter's ANSI C compiler that generates S/370 assembly language.  Includes supporting utilities (asmscan, objscan, prelink).  Note: JCC is not free software; see the repository for license terms.
 
 ### CLIST
 
