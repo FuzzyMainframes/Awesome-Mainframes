@@ -95,10 +95,11 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ## TN3270 Terminal Emulators
 
+- [LizTerm](https://github.com/coffeemuse/LizTerm) - Opensource (BSD 3-Clause) cross-platform TN3270 terminal for retro mainframe hobbyists, built with .NET and Avalonia for macOS, Linux and Windows with the x3270 suite's b3270 engine built in.  Includes session profiles, TLS with certificate pinning, IND$FILE transfer, an onscreen keypad and automatic reconnection.
+- [PW3270](https://softwarepublico.gov.br/social/pw3270) ([github](https://github.com/PerryWerneck/pw3270)) - Opensource (GPL2) TN3270 emulator
+- [tn3270 for Macintosh](https://www.brown.edu/cis/tn3270/) - Free TN3270 emulator for macOS X versions prior to 10.15 (Catalina) as it requires 32-bit application support.
 - [Vista TN3270](https://www.tombrennansoftware.com/index.html) - Tom Brennan's feature packed TN3270 emulator for Microsoft Windows and runs on Linux and Mac with WINE. *"Vista tn3270 is a Windows program designed to emulate IBM 3270 terminals connected to a host via IP link. Currently it is available for a free 30 day trial, and costs only $30.  If you are looking for an emulator created with mainframe programmers in mind, then give this one a try.  You might find some unique features unavailable even on the highest priced commercial emulators."*
 - [x3270](https://x3270.bgp.nu) - x3270 is an IBM 3270 terminal emulator for the X Window System and Windows. It runs on most Unix-like operating systems -- e.g., Linux, Mac OS X, Solaris and Cygwin. For running natively on Windows, download and install wc3270.
-- [tn3270 for Macintosh](https://www.brown.edu/cis/tn3270/) - Free TN3270 emulator for macOS X versions prior to 10.15 (Catalina) as it requires 32-bit application support.
-- [PW3270](https://softwarepublico.gov.br/social/pw3270) ([github](https://github.com/PerryWerneck/pw3270)) - Opensource (GPL2) TN3270 emulator
 - [ZOC: SSH Client and Terminal Emulator for Windows and macOS](https://www.emtec.com/zoc/) - ZOC is a commercial, cross-platform terminal emulator with TN3270 emulation support.
 
 ### TN3270/3270 Technical Information
@@ -112,6 +113,7 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [Tur(n)key MVS 3.8j TK5](https://www.prince-webdesign.nl/tk5) - The latest Tur(n)key MVS 3.8j distribution, building on TK3 and TK4- with significant additional developments and improvements.
 - [Tur(n)key MVS 3.8j TK4-](https://wotho.pebble-beach.ch/tk4-/) - A pre-built distribution of MVS with many enhancements, bundled with programming languages and additional tools.  It is ready to run on Linux, MacOS X, Windows, and even a Raspberry Pi (in the more recent releases).
 - [Tur(n)key MVS 3.8j TK3](http://www.bsp-gmbh.com/turnkey/) - Volker Bandke's Tur(n)key MVS 3.8 TK3 distribution.
+- [MVS/CE](https://github.com/MVS-sysgen/sysgen) - MVS/CE (Community Edition) automates Jay Moseley's MVS 3.8j sysgen, building the system from scratch in resumable steps and layering on usermods and extras such as RAKF, Wally ISPF, BREXX and NJE38.  Includes the MVP package manager and Docker support.
 - [Installing and running MVS 3.8j](http://www.jaymoseley.com/hercules/) - A hands on approach to generating a working MVS 3.8j system starting from the IBM MVS 3.7 starter system.
 - [MVS/380](http://mvs380.sourceforge.net/) - MVS/380 is a patched version of MVS 3.8 and Hercules that allows access to 31-bit address space.
 
@@ -220,6 +222,8 @@ IBM OS/360 MVT is a non-virtual storage operating system.
 - [Native VM/CMS C Library](https://github.com/adesutherland/CMS-370-GCCLIB)
 - [Portable C Compiler](https://github.com/mmhhpp/pcc370)
 - [c2asm370](https://github.com/mvslovers/c2asm370) - A C cross-compiler targeting IBM System/370 assembly, based on GCC 3.2.3.  Maintained by the [mvslovers](https://github.com/mvslovers) community.
+- [cc370](https://github.com/mvslovers/cc370) - A host-native S/370 cross-toolchain (GPL2) that compiles, assembles, links and packages MVS 3.8j programs entirely on macOS or Linux.  Built on a GCC 3.4.6 fork of the gccmvs / i370-gcc line, and bundles as370, ld370, ar370, file370 and xmit370.  Maintained by the [mvslovers](https://github.com/mvslovers) community.
+- [mbt](https://github.com/mvslovers/mbt) - MVS Build Tool, a reusable build pipeline that cross-compiles C on a modern host with cc370, then assembles and links on a real MVS 3.8j system over the mvsMF REST API.  Handles dependency resolution, incremental builds and release packaging.  Maintained by the [mvslovers](https://github.com/mvslovers) community.
 - [crent370](https://github.com/mvslovers/crent370) - A reentrant C runtime library for MVS 3.8j (TK4-, TK5, CE).  Originally created by Michael Dean Rayborn, now maintained by the [mvslovers](https://github.com/mvslovers) community.
 - [JCC](https://github.com/mvslovers/jcc) - Jason Paul Winter's ANSI C compiler that generates S/370 assembly language.  Includes supporting utilities (asmscan, objscan, prelink).  Note: JCC is not free software; see the repository for license terms.
 
@@ -307,7 +311,11 @@ HNET is [Moshix](https://github.com/moshix)' BITNET compatible network of mainfr
 ## Free or Opensource Software to run on your Mainframe
 
 - [CBT Tape](http://www.cbttape.org) - The CBT tape is a collection of freeware almost all open-source distribution for the IBM mainframe MVS and OS/390 operating system environment.
+- [FTPD](https://github.com/mvslovers/ftpd) - A standalone FTP server for MVS 3.8j, built on the crent370 runtime.  Serves native MVS datasets, JES2 jobs and UFSD filesystems, with RAKF-based authentication and both active and passive transfers.  Maintained by the [mvslovers](https://github.com/mvslovers) community.
+- [HTTPD](https://github.com/mvslovers/httpd) - A multi-threaded HTTP/1.1 server for MVS 3.8j under Hercules (TK4-, TK5 or MVS/CE).  Serves static files from a UFS filesystem and dynamic content through modules such as mvsMF.  Requires UFSD and FTPD.  Maintained by the [mvslovers](https://github.com/mvslovers) community.
+- [mvsMF](https://github.com/mvslovers/mvsmf) - An implementation of the z/OSMF REST API for classic MVS 3.8j, running as a CGI module under HTTPD.  Lets modern clients such as Zowe Explorer and Zowe CLI work with datasets, PDS members, jobs, USS files and the system console.  Maintained by the [mvslovers](https://github.com/mvslovers) community.
 - [Pycroft Six](http://www.prycroft6.com.au/software.html) - Pycroft Six's free MVS User Mods and Software, including REVIEW, a full-screen TSO browser and editor.
+- [UFSD](https://github.com/mvslovers/ufsd) - A cross-address-space virtual filesystem daemon for MVS 3.8j under Hercules.  Runs as a started task and gives client programs Unix-like access to filesystems held in BDAM datasets, with the libufs C client library.  Maintained by the [mvslovers](https://github.com/mvslovers) community.
 
 ## Other lists of links
 
