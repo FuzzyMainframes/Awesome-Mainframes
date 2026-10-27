@@ -343,6 +343,8 @@ Many of these groups originated as a Yahoo! Group but after changes with Yahoo!,
 - [turnkey-mvs](https://groups.io/g/turnkey-mvs) - Discussion on using the [Turnkey 4- MVS 3.8j operating system](https://wotho.pebble-beach.ch/tk4-/) under the Hercules mainframe emulator.
 
 ## Others / Yet to be categorized
+
+- [ATLAS Toolkit](https://github.com/AccessInter/atlas-toolkit) - Open-source COBOL-to-TypeScript translation patterns, each backed by a parity test, and a port of the AWS CardDemo COBOL/CICS/VSAM sample checked by 30 parity tests.
   
 ---
 ## Other IBM Mainframes (IBM 1401, 1620, 7090/7094, System 3)
