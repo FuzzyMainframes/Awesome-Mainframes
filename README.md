@@ -233,6 +233,8 @@ IBM OS/360 MVT is a non-virtual storage operating system.
 
 ### COBOL
 
+- [Iron-Silicon Bridge COMP-3 & 4HRA Workbench](https://github.com/digbijoylabs/iron-silicon-bridge) - Zero-backend browser COBOL COMP-3 packed-decimal byte inspector, IBM 4HRA MSU TCO estimator, and 100+ COBOL/JCL/CICS/Db2 modernization blueprints.
+
 #### COBOL Tutorials / Courses
 
 - [OpenMainframe Project's COBOL Programming](https://github.com/openmainframeproject/cobol-programming-course) - Opensource COBOL Programming course created during the COVID-19 pandemic.
