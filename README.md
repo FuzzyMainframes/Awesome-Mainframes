@@ -76,6 +76,8 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 - [Original System/360 Mainframe Advertisement](http://www.ljw.me.uk/ibm360/nix/360a.html) Historically significant, as it is the original marketing adervertisment for the first System/360 mainframe.
 - [The Open Mainframe Project](https://www.openmainframeproject.org/) - *"The Open Mainframe Project is intended to serve as a focal point for deployment and use of Linux and Open Source in a mainframe computing environment. The Project intends to increase collaboration across the mainframe community and to develop shared tool sets and resources. Furthermore, the Project seeks to involve the participation of academic institutions to assist in teaching and educating the mainframe engineers and developers of tomorrow."*
 - [Collection of IBM Mainframe Progamming Quick References](http://ibmmainframes.com/references/)
+- [Anatomy of a Payment](https://digbijoylabs.github.io/anatomy-of-a-payment/) - Interactive Apache-2.0 payment-rail workbench and [CC-BY-4.0 paper](https://doi.org/10.5281/zenodo.24444210) on authorization, clearing, settlement finality, and double-entry ledger invariants.
+  
 
 ## Emulators
 
